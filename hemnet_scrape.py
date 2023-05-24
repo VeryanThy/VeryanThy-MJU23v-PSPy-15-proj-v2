@@ -26,11 +26,11 @@ def scrape_page(link):
     property_data.append([location_data[i].text, size_data[i].text, price_data[i].text]) 
     i += 1
   for property in property_data:
-      with open('hemnet_slutpris_södermanland.csv', 'a') as f:
-        f.write(property[0] + "," + property[1] + "," + property[2] + ",")
+      with open('hemnet_slutpris_sormland.csv', 'a') as f:
+        f.write(property[0] + property[1] + property[2])
 
 # runs a loop through the number of pages on the website
-number_of_pages = 50
+number_of_pages = 100
 i = 1
 while i <= number_of_pages:
   link = "https://www.hemnet.se/salda/bostader?item_types%5B%5D=villa&location_ids%5B%5D=17746&page=" + str(i)
