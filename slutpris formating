@@ -38,8 +38,8 @@ for line in lines:
     elements = line.split(',')
     if len(elements) > 10:
         with open('manual_editing.txt', 'a') as f:
-            f.write(line)
+            f.write(line + "\n")
     else:
         with open('preliminary_format.txt', 'a') as f:
-            f.write(line)
+            f.write(line + "\n")
       

@@ -1,0 +1,1101 @@
+Djurgårdsgatan 16,Mariefred, Strängnäs kommun,75 ,   2,253 ,6 000 000 ,24/05/2023,+1 %
+Jäders-Ekeby 11,Mora, Eskilstuna kommun,142 + 55 ,   6,1 599 ,4 000 000 ,24/05/2023,-11 %
+Ramshammar 5,Ramshammar, Eskilstuna kommun,230 + 35 ,   10,9 065 ,4 850 000 ,23/05/2023,+8 %
+Enhammar Fridhem 12,Tosterö, Strängnäs kommun,86 + 15 ,   3,1 526 ,1 950 000 ,23/05/2023,±0 %
+Köpenhamn 2,Gnesta kommun,108 + 60 ,   5,1 071 ,1 650 000 ,23/05/2023,-13 %
+Björkhagsvägen 9,Vingåker, Vingåkers kommun,157 + 50 ,   6,746 ,1 450 000 ,23/05/2023,-14 %
+Ruths gränd 2J,Gamla Torshälla, Eskilstuna kommun,114 ,   4,4 788 ,/mån2 100 000 ,23/05/2023,+5 %
+Luvsjögatan 13,Katrineholm Värmbol, Katrineholms kommun,103 + 115 ,   4,816 ,2 300 000 ,23/05/2023,±0 %
+Hödergatan 4,Eskilshem, Eskilstuna kommun,63 + 63 ,   4,525 ,2 200 000 ,22/05/2023,-8 %
+Lövsta Sandbrink 2,Vagnhärad, Trosa kommun,72 + 47 ,   4,2 783 ,2 650 000 ,22/05/2023,+6 %
+Lid Örsta Gustavsberg 1,Nyköpings kommun,43 + 43 ,   2,4 438 ,1 300 000 ,22/05/2023,+31 %
+Smultronvägen 4,Mariefred, Strängnäs kommun,50 ,   3,2 063 ,1 100 000 ,10/05/2023,-8 %
+Brannius väg 9,Ärla, Eskilstuna kommun,130 ,   5,1 046 ,2 850 000 ,9/05/2023,+2 %
+Bergvägen 4,Sjögölet, Vingåkers kommun,95 ,   3,1 631 ,1 825 000 ,9/05/2023,-1 %
+Lövbergsgatan 10B,Lundby, Eskilstuna kommun,120 + 37 ,   4,631 ,3 450 000 ,9/05/2023,+2 %
+Svartviksudden 7A,Trosa - Öbolandet, Trosa kommun,220 ,   5,10 741 ,20 000 000 ,9/05/2023,+8 %
+Mårdvägen 11B,Roxnäs, Eskilstuna kommun,224 + 5 ,   6,1 615 ,7 500 000 ,9/05/2023,+15 %
+Isakslundsvägen 67,Inskogen, Oxelösunds kommun,146 + 34 ,   5,1 111 ,3 450 000 ,9/05/2023,+10 %
+Brännskärsgatan 5,Trosa, Trosa kommun,125 ,   4,667 ,5 500 000 ,9/05/2023,-5 %
+Björnspåret 11,Kisäng, Nyköpings kommun,64 + 64 ,   3,1 661 ,2 420 000 ,9/05/2023,+1 %
+Nybohms gränd 2,Torshälla, Eskilstuna kommun,290 + 79 ,   7,797 ,5 200 000 ,9/05/2023,-5 %
+Vängsö Karlshamn 1,Gnesta, Gnesta kommun,84 + 72 ,   4,5 906 ,3 295 000 ,8/05/2023,-6 %
+Örsta Aspudden,Lantligt, Eskilstuna kommun,56 + 50 ,   3,1 645 ,970 000 ,8/05/2023,-3 %
+Värmbol Kulltorp,Katrineholm Värmbol, Katrineholms kommun,35 ,   1,4 422 ,975 000 ,6/05/2023,+3 %
+Jägarbacken 32,Mariefred, Strängnäs kommun,156 ,  ,524 ,5 650 000 ,5/05/2023,-6 %
+Fredriksborg 3,Strängnäs Kommun, Strängnäs kommun,168 ,   8,1 168 ,4 975 000 ,5/05/2023,±0 %
+Björkvägen 20A,Mälby vid Mälaren, Eskilstuna kommun,166 ,   5,1 975 ,9 200 000 ,5/05/2023,+2 %
+Granitvägen 32,Trosa Centralt, Trosa kommun,123 + 3 ,   5,1 638 ,4 600 000 ,4/05/2023,-4 %
+Erlandsborg Sköldsberg 1,Björnlunda, Gnesta kommun,65 ,   2,1 032 ,1 995 000 ,4/05/2023,±0 %
+Prästhällsvägen 35,Mariefred- Edeby, Strängnäs kommun,63 + 5 ,   4,2 219 ,2 910 000 ,4/05/2023,+46 %
+Ärlavägen 13,Skogstorp, Eskilstuna kommun,77 + 77 ,   3,1 749 ,1 700 000 ,2/05/2023,-19 %
+Toltorp Ängstugan,Toltorp, Katrineholms kommun,165 ,   5,3 134 ,2 500 000 ,2/05/2023,-9 %
+Skogsborgsvägen 8,Hälleforsnäs Tätort, Flens kommun,148 + 12 ,   6,1 400 ,2 000 000 ,30/04/2023,±0 %
+Ekslingan 20,VRENA, Nyköpings kommun,98 + 98 ,   5,928 ,2 300 000 ,30/04/2023,+5 %
+Ringugnsvägen 20,Stallarholmen, Strängnäs kommun,121 ,   4,1 399 ,3 870 000 ,30/04/2023,+5 %
+Melinsvägen 4,Skogstorp, Eskilstuna kommun,109 ,   4,1 074 ,3 300 000 ,30/04/2023,+10 %
+Byringe Solhem 1,Strängnäs, Strängnäs kommun,73 + 70 ,   2,1 771 ,2 400 000 ,22/04/2023,-2 %
+Villavägen 18,Tystberga, Nyköpings kommun,84 + 34 ,   5,1 216 ,2 000 000 ,21/04/2023,-20 %
+Ändebol Solhem 1,Ändebol, Katrineholms kommun,120 + 120 ,   4,2 056 ,1 995 000 ,21/04/2023,±0 %
+Nygårdsgatan 8,Snopptorp, Eskilstuna kommun,154 + 66 ,   5,496 ,3 500 000 ,21/04/2023,-9 %
+Hosjö Banvaktstugan,Dunker, Flens kommun,42 + 42 ,   4,15 151 ,3 800 000 ,21/04/2023,-5 %
+Ivars väg 8,Hällberga, Eskilstuna kommun,102 + 100 ,   5,1 007 ,2 400 000 ,21/04/2023,-17 %
+Torparängsvägen 37,Sundby Strand, Strängnäs kommun,150 ,   5,6 000 000 ,21/04/2023,-18 %
+Hålåsen Björkhaga,Eskilstuna kommun,92 + 9 ,   4,9 492 ,1 505 000 ,20/04/2023,+25 %
+Johannesdalsvägen 8,Hällby, Eskilstuna kommun,85 + 85 ,   4,1 196 ,2 900 000 ,20/04/2023,+8 %
+Brunnsvägen 86,Finninge, Strängnäs kommun,147 ,   6,376 ,2 875 000 ,19/04/2023,±0 %
+Ängby 1,Ålberga, Nyköpings kommun,82 + 10 ,   2,6 882 ,1 990 000 ,19/04/2023,+5 %
+Åsvägen 3,Sparreholm Tätort, Flens kommun,94 + 84 ,   4,1 006 ,1 250 000 ,18/04/2023,-10 %
+Kajutagatan 8,Trosa, Trosa kommun,95 + 92 ,   5,1 076 ,5 800 000 ,18/04/2023,-3 %
+Täktvägen 2,Stallarholmen, Strängnäs kommun,150 + 19 ,   3,1 190 ,5 325 000 ,18/04/2023,+7 %
+Sundbyviksvägen 89,Kvicksund, Eskilstuna kommun,230 ,   8,8 995 000 ,18/04/2023,±0 %
+Yxtaholm Ulvsundavägen 4,Ulvsunda, Flens kommun,70 ,   7,2 436 ,1 795 000 ,17/04/2023,±0 %
+Åsa Björkebo,Sköldinge, Katrineholms kommun,101 + 60 ,   4,2 115 ,1 700 000 ,17/04/2023,-6 %
+Skogsvägen 15,Valla, Katrineholms kommun,94 + 94 ,   4,1 632 ,1 130 000 ,16/04/2023,-10 %
+Magnegatan 6,Eskilshem, Eskilstuna kommun,116 + 74 ,   5,618 ,3 900 000 ,16/04/2023,-2 %
+Ytterbo 3,Ytterbo, Nyköpings kommun,121 ,   4,2 318 ,2 900 000 ,16/04/2023,±0 %
+Åda backar 58,Trosa Åda Backar, Trosa kommun,186 ,   6,749 ,7 000 000 ,14/04/2023,-10 %
+Gamla vägen 10A,Hällby, Eskilstuna kommun,236 + 50 ,   8,1 948 ,3 750 000 ,14/04/2023,+1 %
+Östra Långgatan 61,Trosa, Trosa kommun,124 + 54 ,   7,669 ,11 100 000 ,2/04/2023,+14 %
+Hermelinvägen 15,Mariefred, Strängnäs kommun,78 + 43 ,   5,1 828 ,4 300 000 ,2/04/2023,-4 %
+Stenhagsvägen 4A,Hållsta, Eskilstuna kommun,117 + 80 ,   4,1 680 ,3 660 000 ,31/03/2023,+15 %
+Uddvägen 25,Hällberga, Eskilstuna kommun,148 + 24 ,   5,1 232 ,2 400 000 ,31/03/2023,-4 %
+Vretahagsvägen 17,Skogstorp, Eskilstuna kommun,129 ,   4,1 409 ,3 800 000 ,31/03/2023,-5 %
+Arnö Lilla Björkbacken 1,Arnö gård - landet, Nyköpings kommun,124 + 2 ,   6,2 196 ,3 500 000 ,31/03/2023,-11 %
+Uttermarksgatan 62,Eskilstuna Östermalm, Eskilstuna kommun,110 + 110 ,   4,849 ,2 755 000 ,31/03/2023,-8 %
+Floragatan 11,Östermalm, Eskilstuna kommun,70 + 70 ,   4,461 ,3 500 000 ,30/03/2023,±0 %
+Grävlingsvägen 244,Orrhammar, Flens kommun,73 + 5 ,   4,1 620 ,2 600 000 ,30/03/2023,-5 %
+Bränne Älvdalen,Bränne, Eskilstuna kommun,107 + 102 ,   4,2 437 ,3 200 000 ,30/03/2023,+2 %
+Sleipners väg 1,Svalsta, Nyköpings kommun,85 + 85 ,   6,887 ,4 000 000 ,30/03/2023,-9 %
+Björkvägen 15,Björnlunda tätort, Gnesta kommun,112 + 121 ,   4,973 ,2 900 000 ,30/03/2023,-13 %
+Skarvnäsvägen 17,Sparreholm Tätort, Flens kommun,102 + 16 ,   5,2 850 ,1 660 000 ,29/03/2023,-5 %
+Kumla mellangården 10,Mariefred, Strängnäs kommun,141 + 18 ,   5,1 838 ,2 525 000 ,29/03/2023,-14 %
+Igelkottsvägen 18,Solvik, Eskilstuna kommun,130 ,   6,1 656 ,4 600 000 ,29/03/2023,+5 %
+Kilstorp 2,Julita, Katrineholms kommun,75 ,   3,2 995 ,1 695 000 ,29/03/2023,±0 %
+Västra Fyrby 3,Stora Sundby, Eskilstuna kommun,105 ,   4,1 861 ,1 700 000 ,29/03/2023,+14 %
+Snäckgatan 4,Gnesta, Gnesta kommun,154 ,   5,756 ,3 900 000 ,28/03/2023,-2 %
+Orgonavägen 8,Hållsta, Gnesta kommun,69 + 30 ,   3,1 515 ,2 425 000 ,27/03/2023,-2 %
+Flensvägen 48,Hälleforsnäs, Flens kommun,81 + 40 ,   3,1 488 ,662 000 ,27/03/2023,-5 %
+Lilla Tvärgatan 10,Östermalm, Eskilstuna kommun,94 + 20 ,   3,584 ,3 400 000 ,27/03/2023,+6 %
+Billsbro Lillåstugan 1,Centralt, Vingåkers kommun,102 + 19 ,   4,1 870 ,470 000 ,25/03/2023,-5 %
+Södra Stationsvägen 9,Hällberga, Eskilstuna kommun,200 ,   6,3 711 ,4 000 000 ,24/03/2023,-2 %
+Scheelegatan 7,Flen, Flens kommun,159 + 80 ,   6,1 138 ,1 005 000 ,24/03/2023,+26 %
+Tosterö Bråtorp 18,Tosterö, Strängnäs kommun,167 ,   4,6 155 ,8 500 000 ,17/03/2023,+22 %
+Töverstavägen 4,Skebokvarn vid Båven, Flens kommun,618 ,   14,7 008 ,2 940 000 ,17/03/2023,+18 %
+Sättersta Alriksdal 1,Tystberga, Nyköpings kommun,98 ,   3,7 193 ,1 850 000 ,16/03/2023,+9 %
+Långbergsgatan 7C,Skiftinge, Eskilstuna kommun,163 + 58 ,   5,1 164 ,3 150 000 ,16/03/2023,-4 %
+Byvägen 5,Björnlunda tätort, Gnesta kommun,137 ,   6,1 040 ,2 500 000 ,16/03/2023,+2 %
+Bofinksvägen 2,Härad, Strängnäs kommun,83 ,   4,2 144 ,2 150 000 ,15/03/2023,-7 %
+Stensborgsvägen 21,Stenbro, Nyköpings kommun,116 + 11 ,   3,1 521 ,4 825 000 ,15/03/2023,-11 %
+Hästhovsgatan 5,Torshälla, Eskilstuna kommun,112 + 174 ,   7,937 ,2 000 000 ,14/03/2023,-20 %
+Rosenbergsvägen 2,Länna, Strängnäs kommun,103 + 133 ,  ,1 123 ,2 730 000 ,14/03/2023,+1 %
+Hagabergsvägen 7,Hagaberg, Trosa kommun,127 ,   4,1 017 ,7 150 000 ,14/03/2023,+2 %
+Hagelvägen 11,Sunda, Oxelösunds kommun,105 + 59 ,   4,1 161 ,2 700 000 ,14/03/2023,+8 %
+Björktorpsvägen 28,Sanda, Strängnäs kommun,89 ,   4,1 961 ,2 500 000 ,13/03/2023,-16 %
+Gillbergavägen 105,Mesta, Eskilstuna kommun,185 + 46 ,   6,1 418 ,3 550 000 ,12/03/2023,-5 %
+Sundbo Sundboholm 1,Tystberga, Nyköpings kommun,104 + 87 ,   4,2 001 ,2 610 000 ,12/03/2023,+11 %
+Villahagen Ullabo,Sköldinge, Katrineholms kommun,73 + 73 ,   5,1 081 ,1 900 000 ,12/03/2023,+12 %
+Ekebergsvägen 29,Stallarholmen, Strängnäs kommun,100 ,   3,2 249 ,2 850 000 ,11/03/2023,+19 %
+Bjurstorp Skogshall,Katrineholms kommun,185 + 95 ,   6,2 025 ,2 350 000 ,11/03/2023,-6 %
+Emils backe 11,Trosa, Trosa kommun,168 ,   5,1 879 ,8 200 000 ,10/03/2023,-8 %
+Malmvägen 21,Marieberg, Nyköpings kommun,70 + 70 ,  ,627 ,3 375 000 ,10/03/2023,+3 %
+Annas väg 3,Bergshammar, Nyköpings kommun,100 + 7 ,   4,506 ,2 650 000 ,10/03/2023,-4 %
+Västerängsvägen 26,Djursta, Eskilstuna kommun,110 ,   4,922 ,4 425 000 ,9/03/2023,-8 %
+Solhemsplan 4,Läppe, Vingåkers kommun,34 ,   2,1 645 ,750 000 ,9/03/2023,±0 %
+Lantmästarvägen 20,Malmbryggshage, Nyköpings kommun,147 ,   6,1 259 ,6 100 000 ,9/03/2023,±0 %
+Modes väg 11,Svalsta, Nyköpings kommun,126 ,   4,1 121 ,4 600 000 ,9/03/2023,-8 %
+Relingsvägen 11,Stenvik, Oxelösunds kommun,70 + 70 ,   4,1 429 ,2 270 000 ,21/02/2023,+20 %
+Sigtunavägen 30,Dansut, Gnesta kommun,158 + 25 ,   5,909 ,4 250 000 ,21/02/2023,±0 %
+Dunkers-Mälby Lilla Mälby 1,Lantligt, Flens kommun,  56 300 ,7 300 000 ,19/02/2023,-14 %
+Borgvägen 21,Kvicksund, Eskilstuna kommun,148 + 40 ,  ,2 030 ,4 600 000 ,19/02/2023,-8 %
+Kantorstigen 15,Länna, Strängnäs kommun,150 ,   7,941 ,3 550 000 ,18/02/2023,+1 %
+Fagerövägen 3,Trosa - Åda, Trosa kommun,180 + 40 ,   6,1 345 ,6 850 000 ,18/02/2023,-2 %
+Skansuddsvägen 12,Örstigsnäs, Nyköpings kommun,85 ,   4,2 407 ,5 700 000 ,18/02/2023,-12 %
+Åsen Tallhöjden,Valla, Katrineholms kommun,128 + 87 ,   5,26 958 ,2 200 000 ,17/02/2023,-12 %
+Glimmervägen 3,Sjösa, Nyköpings kommun,92 + 45 ,   5,1 349 ,2 050 000 ,17/02/2023,-10 %
+Ängsvägen 10,Sjögölet, Vingåkers kommun,66 ,   3,1 779 ,2 050 000 ,17/02/2023,-7 %
+Strandvägen 23,Björktorp/Sanda, Strängnäs kommun,135 + 22 ,   5,1 920 ,4 800 000 ,16/02/2023,-9 %
+Enebrovägen 11B,Slagsta, Eskilstuna kommun,144 + 99 ,   7,758 ,3 950 000 ,16/02/2023,+3 %
+Opalvägen 9,Sjösa, Nyköpings kommun,148 + 33 ,   6,1 463 ,3 395 000 ,16/02/2023,-3 %
+Barrvägen 4,Storgärdet-Tallåsen-Tosterö, Strängnäs kommun,109 + 85 ,  ,724 ,4 100 000 ,16/02/2023,+11 %
+Ruddammsgatan 25,Mariefred, Strängnäs kommun,120 + 25 ,   5,683 ,3 700 000 ,16/02/2023,-5 %
+Hammarvägen 8,Borsökna, Eskilstuna kommun,91 + 82 ,   4,1 261 ,2 910 000 ,16/02/2023,+1 %
+Ärlavägen 37,Skogstorp, Eskilstuna kommun,135 + 15 ,   7,1 137 ,3 560 000 ,15/02/2023,+8 %
+Brunnsvägen 170C,Centrala Strängnäs, Strängnäs kommun,118 + 3 ,   5,190 ,3 200 000 ,15/02/2023,+7 %
+Björkvägen 12,Borsökna, Eskilstuna kommun,117 + 35 ,   5,1 008 ,2 495 000 ,15/02/2023,-6 %
+Vinkelgatan 3,Julita, Katrineholms kommun,165 + 36 ,   5,1 341 ,2 200 000 ,3/02/2023,-15 %
+Vadaregången 55,Bryngelstorp, Nyköpings kommun,81 ,   3,454 ,2 500 000 ,3/02/2023,+2 %
+Heleneborgsgatan 10,Snopptorp, Eskilstuna kommun,206 + 56 ,   6,717 ,4 900 000 ,3/02/2023,-2 %
+Norrby Solhöjden,Trosa kommun,70 + 70 ,   3,1 355 ,2 235 000 ,3/02/2023,+2 %
+Roxnäsvägen 19,Roxnäs, Eskilstuna kommun,95 ,   4,1 900 ,2 250 000 ,2/02/2023,-10 %
+Platåvägen 4,Skogstorp, Eskilstuna kommun,156 + 46 ,   4,1 920 ,1 900 000 ,2/02/2023,-13 %
+Lillstigen 7,Ärla, Eskilstuna kommun,87 + 87 ,   5,1 256 ,2 450 000 ,31/01/2023,+2 %
+Flugmötesvägen 13,Borsökna, Eskilstuna kommun,105 + 77 ,   4,1 230 ,1 650 000 ,31/01/2023,-8 %
+Hedlandet Mon 7,Mariefred, Strängnäs kommun,123 ,   4,1 707 ,4 000 000 ,31/01/2023,-7 %
+Furirvägen 10,Mesta, Eskilstuna kommun,124 + 23 ,   5,870 ,3 035 000 ,31/01/2023,+9 %
+Skalltorpsgatan 6B,Strandvägsområdet, Katrineholms kommun,133 ,   5,516 ,2 900 000 ,30/01/2023,-3 %
+Högvallavägen 51,Hållsta, Eskilstuna kommun,149 + 6 ,   5,920 ,2 995 000 ,30/01/2023,-6 %
+Mälbyvägen 44,Mälby, Eskilstuna kommun,190 ,   7,3 130 ,5 300 000 ,30/01/2023,-2 %
+Iduns gränd 9,Frönäs, Gnesta kommun,127 ,   5,631 ,4 432 500 ,27/01/2023,+4 %
+Lilla Spånga 1,Åkers Styckebruk, Strängnäs kommun,86 + 56 ,   6,12 000 ,4 300 000 ,27/01/2023,+5 %
+Måndalsvägen 16,Skogstorp, Eskilstuna kommun,93 + 90 ,   4,1 109 ,2 420 000 ,27/01/2023,-9 %
+Rörviksvägen 29,Läppe, Vingåkers kommun,187 + 5 ,   7,1 040 ,1 795 000 ,27/01/2023,-5 %
+Gröndal 2,Lantligt, Eskilstuna kommun,150 + 11 ,   6,2 209 ,2 875 000 ,26/01/2023,-4 %
+Brenäsvägen 1,Laggarhult, Katrineholms kommun,108 + 132 ,   7,1 064 ,2 900 000 ,26/01/2023,-12 %
+Smedjegatan 7,Trosa, Trosa kommun,79 + 79 ,   5,387 ,3 700 000 ,25/01/2023,+1 %
+Västermalmsgatan 36,Västermalm, Eskilstuna kommun,104 + 104 ,   4,979 ,4 170 000 ,13/01/2023,-7 %
+Västermo Tripphäll,Västermo, Eskilstuna kommun,156 + 24 ,   6,2 072 ,2 400 000 ,13/01/2023,-4 %
+Tibastvägen 6,T-Hälla Huvud, Eskilstuna kommun,156 ,   7,1 436 ,9 200 000 ,13/01/2023,+17 %
+Doris väg 4,Nyköpings kommun,108 + 132 ,   7,876 ,3 595 000 ,13/01/2023,-10 %
+Fagerövägen 8,Trosa Åda, Trosa kommun,120 ,   4,1 253 ,5 160 000 ,12/01/2023,-6 %
+Sköldvägen 31,Sunda, Oxelösunds kommun,135 + 49 ,   6,1 086 ,3 250 000 ,12/01/2023,±0 %
+Solanumvägen 31,Örstig, Nyköpings kommun,161 ,   5,2 403 ,5 200 000 ,11/01/2023,-13 %
+Stenvredsvägen 6,Läppe, Vingåkers kommun,124 + 30 ,   5,3 983 ,2 475 000 ,11/01/2023,-1 %
+Ståltappargatan 3,Torshälla, Eskilstuna kommun,120 + 19 ,   5,804 ,2 220 000 ,5/01/2023,-7 %
+Vännevad Graceland,Vännervass, Vingåkers kommun,122 + 110 ,   6,3 243 ,2 895 000 ,4/01/2023,±0 %
+Egnells väg 7,Mälarbaden, Eskilstuna kommun,121 ,   4,945 ,4 400 000 ,3/01/2023,-2 %
+Utsiktsvägen 12,Trosa Stensund, Trosa kommun,52 ,   3,1 497 ,2 850 000 ,2/01/2023,-20 %
+Lokes hage 49,Vagnhärad, Trosa kommun,104 ,   4,102 ,2 250 000 ,2/01/2023,-10 %
+Dalbyvägen 13,Flens kommun,82 + 110 ,   4,1 910 ,1 600 000 ,30/12/2022,+61 %
+Trumpetarbacken 22,Krikonbacken, Nyköpings kommun,117 + 17 ,   4,857 ,2 500 000 ,30/12/2022,+25 %
+Husbyvägen 27,Centralt - Vagnhärad, Trosa kommun,95 + 95 ,   5,1 026 ,3 300 000 ,28/12/2022,+2 %
+Björkkulla 6,Sjösa, Nyköpings kommun,128 ,   4,2 188 ,4 900 000 ,28/12/2022,-11 %
+Åkarvägen 7,Skebokvarn, Flens kommun,192 + 22 ,   6,1 803 ,1 375 000 ,26/12/2022,-8 %
+Hallonvägen 33,Mariefred, Strängnäs kommun,112 + 14 ,   4,2 782 ,3 750 000 ,25/12/2022,+1 %
+Fjärdingsmannavägen 14,Vingåker, Vingåkers kommun,120 + 55 ,   4,1 134 ,825 000 ,23/12/2022,-8 %
+Morrarö 8,Strängnäs, Strängnäs kommun,136 ,   5,2 072 ,1 800 000 ,23/12/2022,-10 %
+Edanövägen 3,Öbolandet, Trosa kommun,39 ,   3,2 492 ,2 900 000 ,22/12/2022,-17 %
+Fruktgången 14,Krikonbacken, Nyköpings kommun,99 ,   5,395 ,2 300 000 ,21/12/2022,-21 %
+Thulegatan 18,Flen, Flens kommun,248 ,   8,1 256 ,2 650 000 ,21/12/2022,+6 %
+Allhelgonavägen 27,Centralt Öster, Nyköpings kommun,219 + 117 ,   8,1 249 ,8 000 000 ,21/12/2022,-19 %
+Slottsbrinksvägen 20,Slottsbrinken, Strängnäs kommun,82 ,   4,1 085 ,2 750 000 ,21/12/2022,+10 %
+Svengrensgatan 22,Övre Nyfors, Eskilstuna kommun,173 + 138 ,   6,660 ,3 075 000 ,20/12/2022,-5 %
+Hällberga Lillhagen,Hällberga, Eskilstuna kommun,164 ,   8,22 155 ,3 500 000 ,20/12/2022,±0 %
+Eldarvägen 7,Stigtomta, Nyköpings kommun,117 ,   6,601 ,2 295 000 ,5/12/2022,±0 %
+Neptunusvägen 6,Stenkulla, Nyköpings kommun,123 + 135 ,   6,615 ,3 000 000 ,4/12/2022,-20 %
+Herrökna Sofielund 1,Stjärnhov, Gnesta kommun,96 ,   4,4 299 ,3 400 000 ,3/12/2022,+14 %
+Björkvägen 8,Flen, Flens kommun,99 + 99 ,   4,879 ,1 990 000 ,3/12/2022,±0 %
+Kronstigen 14,Trosa, Trosa kommun,160 ,   6,1 527 ,6 600 000 ,2/12/2022,-12 %
+Vinkelgatan 5,Hälleforsnäs, Flens kommun,94 + 65 ,   3,1 450 ,1 280 000 ,2/12/2022,+11 %
+Byringevägen 47,Hållsta, Eskilstuna kommun,116 + 116 ,   5,1 206 ,2 390 000 ,1/12/2022,+1 %
+Tunavägen 30,Ärla, Eskilstuna kommun,142 + 71 ,   6,1 997 ,1 925 000 ,30/11/2022,+29 %
+Durkgatan 2,Trosa, Trosa kommun,117 + 116 ,   4,1 297 ,4 600 000 ,30/11/2022,+3 %
+Aspö Skedinge 3,Strängnäs, Strängnäs kommun,135 ,   5,2 400 ,3 195 000 ,30/11/2022,+14 %
+Tomta Tomtebo 1,Gnesta, Gnesta kommun,126 + 16 ,   6,6 176 ,3 700 000 ,30/11/2022,-13 %
+Berggrensvägen 33,Ostra, Eskilstuna kommun,132 + 48 ,   4,1 202 ,5 100 000 ,30/11/2022,+3 %
+Tallbacksvägen 14,Merlänna, Strängnäs kommun,136 + 35 ,   5,1 412 ,3 250 000 ,29/11/2022,+9 %
+Kungsbackavägen 15,Bettna, Flens kommun,220 + 242 ,   14,1 071 ,2 595 000 ,29/11/2022,±0 %
+Rödhällsvägen 13,Värmbol, Katrineholms kommun,73 + 73 ,   4,1 209 ,1 850 000 ,28/11/2022,-2 %
+Magasinsvägen 3,Mariefred, Strängnäs kommun,141 + 22 ,   5,239 ,5 550 000 ,28/11/2022,-6 %
+Taggsvampstigen 13,Bryngelstorp, Nyköpings kommun,135 + 26 ,   7,415 ,2 600 000 ,28/11/2022,+4 %
+Hödergatan 10,Eskilshem, Eskilstuna kommun,94 + 88 ,   5,524 ,2 600 000 ,26/11/2022,-4 %
+Doktorsvägen 6,Julita, Katrineholms kommun,57 + 57 ,   3,1 265 ,1 360 000 ,25/11/2022,-9 %
+Stenviksvägen 17,Stenvik, Oxelösunds kommun,90 + 27 ,   4,4 903 ,8 300 000 ,25/11/2022,+4 %
+Lillängsvägen 14,Flacksta, Eskilstuna kommun,180 ,   6,1 200 ,4 145 000 ,25/11/2022,-8 %
+Månskenet 1,Stavvik, Nyköpings kommun,90 ,   4,1 789 ,2 300 000 ,25/11/2022,±0 %
+Sjöbergs gränd 4,Västerljung, Trosa kommun,154 + 86 ,   9,985 ,3 900 000 ,25/11/2022,-9 %
+Mandelvägen 18,Borsökna, Eskilstuna kommun,149 + 28 ,   7,1 011 ,4 625 000 ,25/11/2022,±0 %
+Valhallavägen 11,Centralt, Vingåkers kommun,91 + 91 ,   4,1 349 ,1 050 000 ,25/11/2022,-16 %
+Slättfall 1,Bie, Katrineholms kommun,124 + 53 ,   4,2 071 ,2 600 000 ,25/11/2022,+18 %
+Anells väg 10,Skogstorp, Eskilstuna kommun,103 + 103 ,   4,1 100 ,2 625 000 ,25/11/2022,-6 %
+Friemansgatan 2,Valhalla, Eskilstuna kommun,80 + 95 ,   6,561 ,3 130 000 ,24/11/2022,+1 %
+Beckasinvägen 1D,Rosenkälla, Nyköpings kommun,107 + 107 ,   4,948 ,2 870 000 ,24/11/2022,+3 %
+Fredmans gränd 3,Torshälla, Eskilstuna kommun,175 + 95 ,   10,901 ,3 200 000 ,24/11/2022,-11 %
+Gruvvägen 45,Brandkärr, Nyköpings kommun,158 + 158 ,   7,702 ,4 300 000 ,23/11/2022,-14 %
+Skolvägen 1B,Hällby, Eskilstuna kommun,110 + 60 ,   4,801 ,2 775 000 ,23/11/2022,-7 %
+Skogsdungevägen 17,Stora Sundby, Eskilstuna kommun,180 + 10 ,   5,1 909 ,3 850 000 ,22/11/2022,+10 %
+Tolenvägen 8,Katrineholm, Katrineholms kommun,87 + 87 ,   3,1 656 ,530 000 ,22/11/2022,+34 %
+Furirvägen 6,Mesta, Eskilstuna kommun,125 + 18 ,   6,871 ,3 450 000 ,22/11/2022,-1 %
+Dagmars väg 9,Bergshammar, Nyköpings kommun,133 + 15 ,   6,1 170 ,3 100 000 ,21/11/2022,-11 %
+Kolke Humlebäck 1,Gnesta, Gnesta kommun,140 + 45 ,   6,2 116 ,2 300 000 ,20/11/2022,+2 %
+Tors gränd 4,Frönäs, Gnesta kommun,162 + 15 ,   8,654 ,4 850 000 ,20/11/2022,-15 %
+Stavtorp Ekhyddan 20,Mariefred, Strängnäs kommun,80 + 80 ,   3,1 240 ,2 375 000 ,19/11/2022,-15 %
+Aspö Hyttan 2,Aspö/Hyttan, Strängnäs kommun,58 ,   3,2 952 ,1 400 000 ,15/11/2022,-10 %
+Mastvägen 12,Stenvik, Oxelösunds kommun,90 + 54 ,   4,1 377 ,2 200 000 ,15/11/2022,-20 %
+Ringvägen 3,Flen, Flens kommun,96 + 106 ,   3,1 122 ,1 695 000 ,15/11/2022,±0 %
+Horn Solvik 1,Horn, Nyköpings kommun,110 + 14 ,   6,1 917 ,7 695 000 ,14/11/2022,±0 %
+Björkvägen 6,Flen, Flens kommun,99 + 99 ,   4,874 ,1 995 000 ,13/11/2022,±0 %
+Borgvägen 8,Skogstorp, Eskilstuna kommun,188 ,   6,873 ,4 100 000 ,12/11/2022,-9 %
+Björktrastvägen 21,Borsökna, Eskilstuna kommun,65 ,   3,1 383 ,1 540 000 ,12/11/2022,+4 %
+Käxlevägen 41,Stjärnhov, Gnesta kommun,176 + 88 ,   6,1 943 ,3 000 000 ,11/11/2022,-14 %
+Öknaby Karl Andersson gården,Flodafors, Katrineholms kommun,222 + 10 ,  ,442 166 ,8 500 000 ,11/11/2022,-11 %
+Gamla landsvägen 3,Tystberga Granlund, Nyköpings kommun,45 ,   2,3 076 ,1 800 000 ,10/11/2022,-8 %
+Solanumvägen 43,Örstigsnäs, Nyköpings kommun,178 ,   6,1 615 ,6 300 000 ,9/11/2022,+5 %
+Lindgärdesvägen 16,Slagsta, Eskilstuna kommun,108 + 108 ,   4,828 ,3 000 000 ,9/11/2022,-14 %
+Gamla Flensvägen 1,Hälleforsnäs, Flens kommun,63 + 63 ,   3,2 030 ,1 150 000 ,27/10/2022,-10 %
+Ostra hagvägen 20,Ostra/Sundbyholm, Eskilstuna kommun,167 + 14 ,   5,1 331 ,5 950 000 ,27/10/2022,+8 %
+Flarnvägen 21,Stallarholmen, Strängnäs kommun,168 + 34 ,   5,1 158 ,6 400 000 ,27/10/2022,-4 %
+Ryttarvägen 13,Västermo, Eskilstuna kommun,162 + 25 ,   6,1 170 ,1 750 000 ,26/10/2022,-12 %
+Gränsvägen 19,Malmsjöstugan, Gnesta kommun,82 + 5 ,   3,2 332 ,2 400 000 ,26/10/2022,-2 %
+Väla Villan 1,Björnlunda, Gnesta kommun,95 ,   3,2 304 ,1 350 000 ,26/10/2022,+36 %
+Råby Skogshyddan 1,Råby, Nyköpings kommun,125 + 74 ,   4,2 317 ,2 500 000 ,25/10/2022,-9 %
+Vikingavägen 16,Strängnäs, Strängnäs kommun,81 + 7 ,   4,698 ,3 125 000 ,24/10/2022,-2 %
+Sörmlandsgatan 26,Söder, Katrineholms kommun,134 + 85 ,   6,1 177 ,3 400 000 ,23/10/2022,-3 %
+Vinkelgatan 5,Malmköping, Flens kommun,111 + 100 ,   6,478 ,1 700 000 ,22/10/2022,-5 %
+Apelvägen 19,Trosa, Trosa kommun,132 ,   5,1 130 ,6 050 000 ,21/10/2022,-8 %
+Lievägen 23,Skogstorp, Eskilstuna kommun,154 + 90 ,   7,645 ,3 350 000 ,21/10/2022,+12 %
+Kryddvägen 22,Arnö, Nyköpings kommun,116 + 32 ,   6,967 ,4 825 000 ,21/10/2022,+1 %
+Kaprisvägen 39,Arnö, Nyköpings kommun,176 ,   6,1 065 ,5 700 000 ,21/10/2022,-5 %
+Kumminvägen 2,Arnö, Nyköpings kommun,154 ,   5,1 040 ,5 500 000 ,21/10/2022,-3 %
+Näktergalsvägen 5,Skogstorp, Eskilstuna kommun,153 ,   7,1 077 ,3 800 000 ,21/10/2022,-1 %
+Beckasinvägen 13,Odlaren, Eskilstuna kommun,180 + 60 ,   5,1 588 ,6 600 000 ,21/10/2022,-6 %
+Marmorbyn Skogsgläntan,Marmorbyn, Vingåkers kommun,115 + 83 ,   4,2 274 ,1 995 000 ,20/10/2022,±0 %
+Tumbo 34,Kvicksund, Eskilstuna kommun,67 + 51 ,   4,1 661 ,1 800 000 ,20/10/2022,-10 %
+Tallåsvägen 12,Storgärdet, Strängnäs kommun,135 + 72 ,   6,984 ,5 500 000 ,20/10/2022,-5 %
+Slottsfogdevägen 62,Mariefred, Strängnäs kommun,116 + 17 ,   6,494 ,5 900 000 ,20/10/2022,-2 %
+Svarvarvägen 16,Stigtomta, Nyköpings kommun,156 ,   6,840 ,2 995 000 ,19/10/2022,±0 %
+Vandrarvägen 19,Sörgärdet, Strängnäs kommun,147 + 24 ,   6,1 045 ,4 250 000 ,19/10/2022,-8 %
+Brotorpsvägen 24,Åda, Trosa kommun,125 + 15 ,   4,863 ,4 750 000 ,19/10/2022,-10 %
+Gamla vägen 10,Mälarbaden, Eskilstuna kommun,202 + 50 ,   6,3 810 ,5 550 000 ,19/10/2022,-12 %
+Torsåker Kärrtorp 1,Gnesta kommun,81 + 5 ,   3,3 328 ,1 950 000 ,18/10/2022,+9 %
+Mejramvägen 11,Arnö, Nyköpings kommun,149 + 6 ,   7,449 ,3 850 000 ,18/10/2022,±0 %
+Järnvägsgatan 18,Valla, Katrineholms kommun,113 + 103 ,   6,662 ,1 595 000 ,11/10/2022,±0 %
+Grinda 5,Gnesta kommun,150 ,   6,1 623 ,4 200 000 ,11/10/2022,-7 %
+Lillys väg 5,Bergshammar, Nyköpings kommun,110 + 110 ,   8,964 ,3 695 000 ,10/10/2022,±0 %
+Överåsvägen 9A & 9B,Strängnäs, Strängnäs kommun,161 + 15 ,   5,2 300 ,4 195 000 ,8/10/2022,±0 %
+Kornstigen 3,Kvegerö, Gnesta kommun,57 + 25 ,   3,1 978 ,2 050 000 ,8/10/2022,-9 %
+Bresätter Västerlund 1,Gnesta kommun,170 ,   7,1 216 ,3 400 000 ,8/10/2022,+26 %
+Torgvägen 3,Björnlunda, Gnesta kommun,108 ,   4,1 755 ,2 475 000 ,7/10/2022,+1 %
+Bråtorp 2,Strängnäs kommun,60 + 7 ,   3,1 706 ,1 860 000 ,7/10/2022,-9 %
+Horn Solvik 1,Horn, Nyköpings kommun,110 + 14 ,   6,1 917 ,7 700 000 ,7/10/2022,-31 %
+Valhallavägen 19,Vingåker, Vingåkers kommun,135 + 45 ,   7,963 ,1 995 000 ,6/10/2022,-13 %
+Mälhammar Larsborg,Tumbo, Eskilstuna kommun,132 ,   4,15 110 ,2 625 000 ,6/10/2022,+32 %
+Hagavägen 19,Vrena, Nyköpings kommun,25 ,   1,1 411 ,950 000 ,6/10/2022,-13 %
+Folkegatan 18,Centrala Oxelösund, Oxelösunds kommun,126 + 59 ,   5,966 ,1 920 000 ,6/10/2022,+28 %
+Blanken,Julita, Katrineholms kommun,158 ,   7,3 433 ,2 850 000 ,6/10/2022,-5 %
+Odens väg 8,Svalsta, Nyköpings kommun,122 + 32 ,   6,905 ,2 500 000 ,5/10/2022,-22 %
+Hornsund Sågtorp 1,Flen, Flens kommun,120 + 5 ,   4,12 515 ,4 650 000 ,4/10/2022,+3 %
+Eriksgatan 3,Tosterön, Strängnäs kommun,110 + 150 ,   6,1 069 ,4 000 000 ,4/10/2022,-8 %
+Aktörgatan 16,Glömsta, Eskilstuna kommun,138 ,   5,419 ,2 800 000 ,3/10/2022,-7 %
+Krokvägen 8,Flen, Katrineholms kommun,70 ,   4,2 473 ,2 125 000 ,2/10/2022,-15 %
+Korsnäs udde Korsnäs 12,Korsnäs Udde, Trosa kommun,87 ,   5,8 123 ,6 700 000 ,2/10/2022,-16 %
+Östra Kyrkogatan 8,Fågelbo-Väster-Öster, Nyköpings kommun,269 + 157 ,   12,990 ,11 200 000 ,2/10/2022,+2 %
+Källstugevägen 13,Svalsta, Nyköpings kommun,210 ,   6,3 184 ,2 950 000 ,1/10/2022,-9 %
+Marielundsvägen 12,Mariefred, Strängnäs kommun,134 ,   5,268 ,4 995 000 ,1/10/2022,±0 %
+Strandvägen 32,Kvicksund, Eskilstuna kommun,167 ,   5,1 334 ,6 800 000 ,30/09/2022,+6 %
+Kyrkogatan 10,Valla, Katrineholms kommun,79 + 11 ,   3,793 ,850 000 ,30/09/2022,+22 %
+Lista Stenkullen,Lista, Eskilstuna kommun,151 ,   5,7 110 ,3 405 000 ,30/09/2022,+14 %
+Djupvik Solö,Djupvik, Katrineholms kommun,113 + 9 ,   4,910 ,1 200 000 ,30/09/2022,-7 %
+Hällby Stora Stenriket,Eskilstuna kommun,162 + 79 ,   6,2 914 ,3 400 000 ,29/09/2022,+14 %
+Alkvägen 59,Vallsund, Oxelösunds kommun,108 ,   4,167 ,1 850 000 ,29/09/2022,-19 %
+Villagatan 4,Valla, Katrineholms kommun,126 ,   5,904 ,1 410 000 ,21/09/2022,-6 %
+Rekylvägen 14,Sunda, Oxelösunds kommun,72 + 72 ,   5,691 ,2 395 000 ,21/09/2022,-10 %
+Närsjö Björkeberga,Närsjö, Eskilstuna kommun,66 ,   3,1 782 ,800 000 ,20/09/2022,-46 %
+Åttingevägen 1B,Svalsta, Nyköpings kommun,134 + 11 ,   5,724 ,3 100 000 ,20/09/2022,+4 %
+Runstavägen 6,Lästringe, Nyköpings kommun,98 + 6 ,   4,1 935 ,2 000 000 ,20/09/2022,+8 %
+Champinjonvägen 4,Bryngelstorp, Nyköpings kommun,143 + 7 ,   7,613 ,4 495 000 ,19/09/2022,±0 %
+Guldbaggestigen 10,Bryngelstorp, Nyköpings kommun,138 + 12 ,   5,659 ,4 700 000 ,19/09/2022,+5 %
+Stallgårdsvägen 33,Söder, Katrineholms kommun,109 + 84 ,   7,523 ,1 725 000 ,18/09/2022,-28 %
+Kjesäter 11,Vingåker, Vingåkers kommun,98 ,   4,1 308 ,1 000 000 ,16/09/2022,-16 %
+Kvarntorp Stenbo,Stenkvista, Eskilstuna kommun,57 ,   4,1 097 ,1 675 000 ,16/09/2022,+46 %
+Höjdvägen 4,Marmorbyn, Vingåkers kommun,125 ,   4,1 100 ,3 395 000 ,16/09/2022,-6 %
+Tvärvägen 10,Björktorp, Strängnäs kommun,39 ,   2,2 373 ,1 500 000 ,16/09/2022,-21 %
+Liljas väg 17,Högbrunn, Nyköpings kommun,77 + 77 ,   3,600 ,1 875 000 ,16/09/2022,+4 %
+Tomtebogatan 8,Torshälla, Eskilstuna kommun,80 + 35 ,   4,744 ,2 850 000 ,16/09/2022,-5 %
+Norrskenet 13,Stavik, Nyköpings kommun,125 ,   4,2 482 ,3 100 000 ,16/09/2022,+9 %
+Skogsdungevägen 27,Stora Sundby, Eskilstuna kommun,142 ,   6,987 ,3 200 000 ,15/09/2022,+3 %
+Myrstigen 19,Näshulta-Österby, Eskilstuna kommun,83 ,   3,1 655 ,1 750 000 ,15/09/2022,+17 %
+Lilla Movägen 1,Gustavsborg / Hällby, Eskilstuna kommun,126 ,   5,785 ,3 750 000 ,15/09/2022,+7 %
+Manetvägen 17,Sunda, Oxelösunds kommun,104 ,   4,590 ,2 420 000 ,15/09/2022,+24 %
+Stenvägen 27,Sjösa, Nyköpings kommun,116 + 111 ,   6,2 290 ,3 300 000 ,15/09/2022,-8 %
+Äppelvägen 14,Lasstorp, Katrineholms kommun,144 + 37 ,   5,694 ,3 300 000 ,15/09/2022,-6 %
+Domarringsvägen 7,Hällby, Eskilstuna kommun,72 + 72 ,   3,1 338 ,2 310 000 ,14/09/2022,+22 %
+Bellisgången 8,Ekensberg, Nyköpings kommun,154 ,   5,628 ,5 100 000 ,14/09/2022,+2 %
+Parkgatan 21,Stallarholmen, Strängnäs kommun,59 + 58 ,   4,960 ,2 200 000 ,6/09/2022,-8 %
+Åtorpsvägen 11,Ålberga, Nyköpings kommun,138 + 10 ,   6,1 838 ,1 200 000 ,6/09/2022,-20 %
+Skensta Östergård,Slagsta, Eskilstuna kommun,70 ,   3,1 509 ,2 300 000 ,5/09/2022,+15 %
+Klaraborgsvägen 7,Hällby, Eskilstuna kommun,117 + 88 ,   6,746 ,3 330 000 ,2/09/2022,+11 %
+Musseronvägen 4,Bryngelstorp, Nyköpings kommun,129 + 161 ,   8,998 ,5 800 000 ,2/09/2022,+14 %
+Svanvägen 11,Rosenkälla, Nyköpings kommun,125 + 125 ,   5,1 194 ,4 000 000 ,2/09/2022,±0 %
+Rapphönevägen 2,Ängsholmen, Eskilstuna kommun,53 ,   3,1 170 ,2 050 000 ,2/09/2022,+14 %
+Hällstugatan 25,Skiftinge, Eskilstuna kommun,142 + 13 ,   5,888 ,3 650 000 ,2/09/2022,-13 %
+Slottsfogdevägen 32,Mariefred, Strängnäs kommun,138 + 12 ,   6,368 ,6 495 000 ,2/09/2022,±0 %
+Lilla Anderbäcksvägen 8,Svalsta, Nyköpings kommun,60 + 55 ,   3,1 008 ,1 575 000 ,2/09/2022,-1 %
+Hertig Karls väg 12,Strängnäs Centrum, Strängnäs kommun,220 + 130 ,   7,1 500 ,9 200 000 ,2/09/2022,+16 %
+Malmsvägen 3,Sparreholm, Flens kommun,163 + 80 ,   7,1 678 ,3 200 000 ,1/09/2022,+11 %
+Hagavägen 11,Nyköpings kommun,225 + 30 ,   6,4 476 ,6 000 000 ,1/09/2022,-24 %
+Krokvägen 8,Skogstorp, Eskilstuna kommun,82 + 41 ,   3,3 017 ,2 500 000 ,31/08/2022,-7 %
+Trollskogsvägen 6,Mariefred, Strängnäs kommun,52 ,  ,1 413 ,2 050 000 ,31/08/2022,+3 %
+Sörtuna Gula villan,Västerljung, Trosa kommun,155 + 70 ,   5,2 366 ,6 550 000 ,31/08/2022,+10 %
+Ekeby 5,Björnlunda/Lantligt, Gnesta kommun,150 + 20 ,   6,6 112 ,4 485 000 ,19/08/2022,±0 %
+Bergsbovägen 14,Hagnestahill, Eskilstuna kommun,214 + 106 ,   7,1 049 ,6 300 000 ,19/08/2022,-3 %
+Solvägen 4,Gnesta, Gnesta kommun,76 + 76 ,   3,906 ,2 880 000 ,18/08/2022,+24 %
+Storviltsvägen 24,Sunda, Oxelösunds kommun,121 + 75 ,   6,750 ,3 500 000 ,18/08/2022,+6 %
+Östgötagatan 16,Backa, Katrineholms kommun,65 + 65 ,   4,756 ,1 540 000 ,17/08/2022,+3 %
+Televägen 6,Centralt - Vagnhärad, Trosa kommun,104 + 60 ,   6,1 237 ,4 295 000 ,17/08/2022,±0 %
+Nykyrkavägen 23,Stigtomta, Nyköpings kommun,146 + 53 ,   6,1 590 ,4 000 000 ,17/08/2022,-5 %
+Smäckbrogatan 4,Trosa, Trosa kommun,77 + 75 ,   4,454 ,4 050 000 ,17/08/2022,-5 %
+Ostravägen 20,Sundbyholm, Eskilstuna kommun,60 + 10 ,  ,3 568 ,2 775 000 ,17/08/2022,-3 %
+Läroverksgatan 6,Katrineholm Centralt, Katrineholms kommun,157 + 93 ,   5,1 096 ,3 800 000 ,17/08/2022,+19 %
+Utterspåret 14,Kisäng, Nyköpings kommun,76 + 76 ,   6,1 921 ,2 700 000 ,16/08/2022,-10 %
+Nikolai-Herrhagen 1,Arnö Strand, Nyköpings kommun,290 ,   9,2 386 ,10 700 000 ,16/08/2022,-16 %
+Ängsvägen 5,Nävekvarn, Nyköpings kommun,69 + 69 ,   5,806 ,2 825 000 ,16/08/2022,+45 %
+Svenstorp 4,Sköldinge, Katrineholms kommun,55 + 55 ,   3,2 838 ,750 000 ,16/08/2022,±0 %
+Falkvägen 11,Tystberga, Nyköpings kommun,109 + 80 ,   7,1 890 ,2 575 000 ,15/08/2022,+3 %
+Magla Midgård,Magla, Eskilstuna kommun,176 ,   7,2 083 ,3 495 000 ,15/08/2022,±0 %
+Smedjevägen 4,Vingåkers kommun,130 + 63 ,   5,1 159 ,2 150 000 ,14/08/2022,-6 %
+Studsarvägen 3,Sunda, Oxelösunds kommun,125 + 62 ,   5,720 ,3 400 000 ,13/08/2022,+6 %
+Rundvägen 10,Malmköping, Flens kommun,135 + 33 ,   5,929 ,1 545 000 ,12/08/2022,-3 %
+Trollesund 6,Spelvik, Nyköpings kommun,200 + 10 ,   7,1 640 ,2 850 000 ,12/08/2022,-4 %
+Elisabeth Tamms väg 15,Julita, Katrineholms kommun,109 + 120 ,   4,1 282 ,1 850 000 ,12/08/2022,-21 %
+Solvägen 10,Tosterön, Strängnäs kommun,82 + 70 ,   5,1 385 ,3 950 000 ,12/08/2022,-7 %
+Västermalmsgatan 31,Västermalm, Eskilstuna kommun,163 + 110 ,   7,752 ,3 200 000 ,12/08/2022,-3 %
+Strömmingsberget 12B,Öbolandet, Trosa kommun,180 ,   5,1 806 ,9 750 000 ,11/08/2022,+15 %
+Malmvägen 7,Strångsjö, Katrineholms kommun,88 ,   3,1 520 ,1 900 000 ,23/07/2022,+6 %
+Esbjergsgatan 7,Västermalm, Eskilstuna kommun,124 + 124 ,   5,803 ,2 500 000 ,22/07/2022,-17 %
+Hammarbyvägen 28,Västerljung, Trosa kommun,128 ,   6,1 124 ,4 400 000 ,22/07/2022,±0 %
+Oxelvägen 7,Björnlunda, Gnesta kommun,151 ,   7,966 ,3 300 000 ,22/07/2022,+10 %
+Dalhagsvägen 3,Dalhagen, Eskilstuna kommun,72 ,   5,1 178 ,1 810 000 ,21/07/2022,+1 %
+Hasselvägen 4,Tystberga, Nyköpings kommun,197 + 114 ,   9,1 029 ,3 500 000 ,21/07/2022,+10 %
+Duvtorpsvägen 23,Röksta, Eskilstuna kommun,87 + 145 ,   6,872 ,3 800 000 ,21/07/2022,+9 %
+Täbyholmsvägen 14,Åkers Styckebruk, Strängnäs kommun,129 + 129 ,   6,1 711 ,4 275 000 ,19/07/2022,+2 %
+Ringugnsvägen 10,Stallarholmen-Sundby Strandväg, Strängnäs kommun,121 ,   4,1 138 ,3 350 000 ,19/07/2022,-7 %
+Hemmansvägen 5,Tomtaklint, Trosa kommun,185 + 41 ,   7,781 ,4 550 000 ,19/07/2022,-4 %
+Bergsgatan 40,Myresjö, Vingåkers kommun,92 + 92 ,   5,1 244 ,1 345 000 ,19/07/2022,-13 %
+Gillbergavägen 113B,Mesta, Eskilstuna kommun,115 + 85 ,   5,1 273 ,3 700 000 ,4/07/2022,+12 %
+Mossvägen 12,Sanda, Strängnäs kommun,84 ,   3,2 588 ,2 300 000 ,4/07/2022,-4 %
+Vikingavägen 19,Vingåker, Vingåkers kommun,93 + 90 ,   4,961 ,1 200 000 ,3/07/2022,-4 %
+Granvägen 61B,Oppeby, Nyköpings kommun,80 ,   3,288 ,2 100 000 ,3/07/2022,-11 %
+Tummelsta 27,Tummelsta, Eskilstuna kommun,58 + 15 ,   3,981 ,1 600 000 ,1/07/2022,-6 %
+Tussilagovägen 10,Norrtuna, Gnesta kommun,52 ,   2,1 667 ,2 100 000 ,1/07/2022,+12 %
+Bondegatan 13,Norr, Katrineholms kommun,239 + 64 ,   7,879 ,4 900 000 ,1/07/2022,+3 %
+Andvägen 1,Vallsund, Oxelösunds kommun,125 + 60 ,   6,1 050 ,3 200 000 ,1/07/2022,-2 %
+Nyhemsgatan 39,Nävertorp, Katrineholms kommun,133 + 64 ,   5,1 158 ,2 300 000 ,1/07/2022,+5 %
+Tuvhagsvägen 6,Jönåker, Nyköpings kommun,146 ,   5,1 211 ,2 695 000 ,1/07/2022,±0 %
+Stensättarvägen 10,Brottsta, Eskilstuna kommun,138 + 12 ,   6,1 050 ,5 200 000 ,1/07/2022,+4 %
+Genvägen 7,Stallarholmen, Strängnäs kommun,124 + 124 ,   6,1 740 ,3 500 000 ,1/07/2022,-4 %
+Ödesäng Torsäng,Björkvik, Katrineholms kommun,115 + 57 ,   4,2 365 ,1 520 000 ,30/06/2022,+2 %
+Nickelvägen 33,Stenby, Eskilstuna kommun,102 + 102 ,   6,871 ,3 495 000 ,30/06/2022,±0 %
+Lövsta Strandäng 1,Mälaren, Eskilstuna kommun,45 + 45 ,   2,20 328 ,5 700 000 ,30/06/2022,+63 %
+Elmavägen 12,Vansö, Strängnäs kommun,137 ,   6,1 391 ,3 950 000 ,30/06/2022,+4 %
+Åda backar 22,Trosa, Trosa kommun,139 + 15 ,   4,904 ,5 950 000 ,30/06/2022,+2 %
+Köpingevägen 25,Åkers Styckebruk, Strängnäs kommun,60 ,   3,1 086 ,2 475 000 ,30/06/2022,+38 %
+Gesällgränd 4,Torshälla, Eskilstuna kommun,165 + 55 ,   7,1 103 ,4 295 000 ,22/06/2022,±0 %
+Reginvägen 2,Strängnäs, Strängnäs kommun,165 ,   8,618 ,5 600 000 ,22/06/2022,-6 %
+Karlstorp 202,Mariefred, Strängnäs kommun,47 ,   2,1 630 ,1 925 000 ,22/06/2022,+17 %
+Magda Lövhagen,Näshulta, Eskilstuna kommun,110 + 71 ,   6,53 782 ,3 025 000 ,22/06/2022,+32 %
+Ejderstigen 2,Tofsö, Trosa kommun,121 + 40 ,   5,2 061 ,3 500 000 ,22/06/2022,+6 %
+Bromby 4,Mariefred, Strängnäs kommun,120 + 60 ,  ,1 844 ,4 600 000 ,22/06/2022,+2 %
+Smultronstigen 9,Finninge, Strängnäs kommun,130 + 6 ,   6,448 ,4 150 000 ,22/06/2022,+5 %
+Lövsta 39,Landet, Trosa kommun,189 + 13 ,   8,2 094 ,5 885 000 ,22/06/2022,+7 %
+Hedevägen 26,Slagsta, Eskilstuna kommun,156 ,   5,1 043 ,3 500 000 ,21/06/2022,+17 %
+Götgatan 4,Vingåker, Vingåkers kommun,147 ,   6,762 ,1 450 000 ,21/06/2022,-12 %
+Törnsångarvägen 11,Uttervik (södra delen), Nyköpings kommun,141 + 20 ,   6,2 272 ,4 100 000 ,21/06/2022,+37 %
+Durkgatan 6,Trosa, Trosa kommun,117 + 23 ,   5,1 180 ,3 850 000 ,21/06/2022,-13 %
+Ålbäck 3,Ålbäck, Nyköpings kommun,69 ,   3,1 788 ,2 500 000 ,21/06/2022,±0 %
+Lifsinge Tallåsen 2,Lantligt, Gnesta kommun,70 + 48 ,   4,2 057 ,1 650 000 ,20/06/2022,±0 %
+Sjövägen 2,Hällby, Eskilstuna kommun,93 + 47 ,   5,1 175 ,3 800 000 ,19/06/2022,+12 %
+Svangatan 2,Trosa, Trosa kommun,140 ,   5,426 ,4 500 000 ,19/06/2022,-2 %
+Sundby strandväg 59,Stallarholmen, Strängnäs kommun,190 ,   8,1 297 ,5 950 000 ,19/06/2022,±0 %
+Lagerbielkes väg 1,Hjälmsätter, Katrineholms kommun,86 ,   4,1 854 ,1 795 000 ,18/06/2022,±0 %
+Kyrkogatan 1,Sköldinge, Katrineholms kommun,114 + 114 ,   7,1 033 ,1 850 000 ,18/06/2022,±0 %
+Ingelstorp 1,SÖDERMANLANDS LÄN, Strängnäs kommun,90 ,   4,3 248 ,2 225 000 ,18/06/2022,+12 %
+Stockholmsvägen 23,Tystberga, Nyköpings kommun,90 + 70 ,   4,1 061 ,2 600 000 ,18/06/2022,+13 %
+Ekhovsvägen 31,Mariefred, Strängnäs kommun,140 + 5 ,   6,450 ,4 200 000 ,18/06/2022,+8 %
+Tallvägen 9,Orrö, Flens kommun,112 + 112 ,   6,988 ,3 000 000 ,18/06/2022,+37 %
+Äs Ekäng,Julita, Katrineholms kommun,81 + 76 ,   3,1 050 ,1 800 000 ,18/06/2022,+9 %
+Tingstugatan 11,Strängnäs, Strängnäs kommun,143 + 97 ,   7,713 ,6 995 000 ,18/06/2022,±0 %
+Lärkvägen 2A,Odlaren, Eskilstuna kommun,160 ,   5,1 514 ,5 600 000 ,14/06/2022,+2 %
+Nygatan 14,Mariefred, Strängnäs kommun,266 ,   7,1 406 ,14 500 000 ,14/06/2022,+6 %
+Enebyvägen 3,Sköldinge, Katrineholms kommun,112 ,   5,615 ,2 360 000 ,14/06/2022,-16 %
+Nyponvägen 258,Peterslund, Oxelösunds kommun,124 + 36 ,   5,893 ,3 570 000 ,14/06/2022,-3 %
+Valhallagatan 20,Valhalla, Eskilstuna kommun,125 ,   5,792 ,3 850 000 ,14/06/2022,+21 %
+Bladbaggestigen 12,Bryngelstorp, Nyköpings kommun,138 + 12 ,   5,608 ,3 670 000 ,13/06/2022,+3 %
+Koppartorp Lönnberga 1,Koppartorp, Nyköpings kommun,109 + 93 ,   5,1 780 ,3 200 000 ,13/06/2022,+28 %
+Borgvägen 6,Stallarholmen, Strängnäs kommun,100 ,   3,1 773 ,3 800 000 ,12/06/2022,-4 %
+Sörby Södermalm 1,Björnlunda/Lantligt, Gnesta kommun,176 ,   5,1 943 ,3 300 000 ,12/06/2022,-16 %
+Kantarellstigen 2,Bryngelstorp, Nyköpings kommun,112 + 52 ,   6,873 ,4 000 000 ,11/06/2022,+10 %
+Olstorpsvägen 16,Ostra, Eskilstuna kommun,72 + 22 ,   3,1 955 ,3 400 000 ,11/06/2022,+14 %
+Vickelbyvägen 58,Sundbyholm, Eskilstuna kommun,216 + 20 ,   7,2 739 ,3 990 000 ,10/06/2022,+8 %
+Granholmsvägen 4,Trosa Stensund, Trosa kommun,94 + 12 ,   4,1 483 ,4 105 000 ,10/06/2022,+9 %
+Djungelvägen 16,Sunda, Oxelösunds kommun,75 + 85 ,   4,680 ,2 700 000 ,10/06/2022,+4 %
+Rådjursstigen 5,Värmbol, Katrineholms kommun,119 + 119 ,   4,1 738 ,3 825 000 ,10/06/2022,+10 %
+Bieåsen 21,Bie, Katrineholms kommun,192 + 131 ,   7,1 855 ,3 500 000 ,10/06/2022,+8 %
+Sjöhagen 28,Malmköping, Flens kommun,51 ,   3,1 490 ,2 050 000 ,10/06/2022,+15 %
+Tors väg 15,Svalsta, Nyköpings kommun,97 + 97 ,   5,978 ,3 000 000 ,10/06/2022,±0 %
+Bengtzéns väg 6,Mälarbaden, Eskilstuna kommun,260 + 26 ,   8,5 595 ,9 200 000 ,10/06/2022,-3 %
+Mestavägen 9,Mesta, Eskilstuna kommun,104 + 104 ,   4,1 609 ,4 485 000 ,10/06/2022,±0 %
+Stenbrovägen 40,Östra Villastaden, Nyköpings kommun,188 + 40 ,   6,1 138 ,6 700 000 ,9/06/2022,-11 %
+Jordbron 2,Julita lantligt, Katrineholms kommun,62 + 56 ,   3,1 786 ,1 300 000 ,9/06/2022,-7 %
+Runtuna Eneby Hästhagen 1,Nyköpings kommun,151 ,   5,4 729 ,3 345 000 ,9/06/2022,-9 %
+Sjöborgsvägen 13,Strängnäs kommun,114 + 50 ,   5,1 179 ,4 050 000 ,1/06/2022,+38 %
+Fatbursvägen 2,Mariefred, Strängnäs kommun,115 ,   5,816 ,4 450 000 ,1/06/2022,+13 %
+Åda Dal 3,Trosa Centralt, Trosa kommun,158 + 35 ,   6,1 032 ,5 900 000 ,1/06/2022,-6 %
+Västerviksgatan 6A,Storgärdet-Tallåsen-Tosterö, Strängnäs kommun,120 ,   5,160 ,6 000 000 ,1/06/2022,+1 %
+Skjutsarvägen 12,Skebokvarn vid Båven, Flens kommun,115 + 26 ,   4,2 507 ,2 700 000 ,1/06/2022,+23 %
+Trädgårdsgatan 14,Valla, Katrineholms kommun,111 + 111 ,   8,994 ,2 350 000 ,31/05/2022,±0 %
+Parkvägen 1,Hagalund, Nyköpings kommun,125 + 171 ,   6,1 343 ,4 600 000 ,31/05/2022,±0 %
+Ormbunksvägen 6,Enhammarshöjden, Strängnäs kommun,162 ,   6,1 811 ,6 200 000 ,31/05/2022,+2 %
+Björksta by Ekenäs 1,Lantligt, Gnesta kommun,153 + 129 ,   6,1 674 ,3 650 000 ,31/05/2022,-6 %
+Anemonvägen 3,Ekensberg, Nyköpings kommun,142 ,   5,763 ,5 500 000 ,31/05/2022,+5 %
+Lilla Almby Skogaholm,Kjula / Jäder, Eskilstuna kommun,136 ,   4,6 547 ,4 500 000 ,31/05/2022,+10 %
+Skogsstigen 5,Uddens Fritidshusområde, Katrineholms kommun,49 ,   2,1 559 ,1 375 000 ,31/05/2022,-5 %
+Rosenhillsvägen 35,Arnö, Nyköpings kommun,108 ,   4,4 870 ,/mån3 100 000 ,30/05/2022,-11 %
+Förrådsgatan 4,Malmköping, Flens kommun,147 ,   5,460 ,2 895 000 ,29/05/2022,±0 %
+Svenstorp 3,Sköldinge, Katrineholms kommun,82 ,   4,4 877 ,1 550 000 ,28/05/2022,-3 %
+Mjölkörtsvägen 6,Tosterö, Strängnäs kommun,102 ,   3,1 029 ,4 575 000 ,27/05/2022,+15 %
+Toltorp Björkhagen 2,Toltorp, Katrineholms kommun,61 + 10 ,   3,2 180 ,2 025 000 ,27/05/2022,+13 %
+Dalkarlsvägen 30,Stallarholmen, Strängnäs kommun,149 ,   5,858 ,2 450 000 ,27/05/2022,-8 %
+Björka Rosendal 1,Stigtomta, Nyköpings kommun,  34 020 ,7 350 000 ,27/05/2022,-2 %
+Tillskärarvägen 4,Brottsta, Eskilstuna kommun,127 ,   4,884 ,4 625 000 ,27/05/2022,+10 %
+Segelvägen 5,Mastvägsområdet, Oxelösunds kommun,154 + 63 ,   5,1 004 ,3 350 000 ,26/05/2022,+18 %
+Gäddvägen 24,Svinsjögård, Gnesta kommun,77 + 77 ,   3,1 830 ,2 750 000 ,26/05/2022,±0 %
+Böcklinge Mellangården,Stora Sundby, Eskilstuna kommun,165 + 63 ,   7,3 262 ,3 000 000 ,26/05/2022,+9 %
+Dämbol Björkhagen,Bettna, Flens kommun,111 + 111 ,   4,2 650 ,1 400 000 ,26/05/2022,+17 %
+Rosavillavägen 20,Österåker, Vingåkers kommun,80 + 50 ,   4,1 593 ,1 710 000 ,26/05/2022,+2 %
+Finntorp Malmsjöberg,Yxtaholm i Södermanland, Flens kommun,172 ,   6,2 472 ,4 600 000 ,26/05/2022,+8 %
+Tovhulta Björnsten 2,Stora Sundby, Eskilstuna kommun,92 ,   3,3 541 ,2 600 000 ,25/05/2022,+13 %
+Furudal 1,Mariefred, Strängnäs kommun,100 ,   5,4 262 ,5 800 000 ,25/05/2022,+16 %
+Tallbergsvägen 32,Skogstorp, Eskilstuna kommun,196 + 28 ,   7,811 ,3 200 000 ,25/05/2022,-7 %
+Näktergalsvägen 16,Skogstorp, Eskilstuna kommun,150 ,   6,972 ,3 450 000 ,24/05/2022,+6 %
+Tingstuvägen 18,Kjula, Eskilstuna kommun,125 + 97 ,   6,1 408 ,3 000 000 ,24/05/2022,+20 %
+Dammvägen 14,Hälleforsnäs, Flens kommun,57 ,   3,1 165 ,661 000 ,20/05/2022,+2 %
+Nygårdsplatån 27,Vagnhärad, Trosa kommun,96 ,   4,1 176 ,3 620 000 ,19/05/2022,+11 %
+Tranbärsvägen 12,Peterslund, Oxelösunds kommun,92 ,   4,967 ,2 250 000 ,19/05/2022,+13 %
+Ekorrvägen 24,Strängnäs, Strängnäs kommun,131 ,   6,353 ,5 000 000 ,19/05/2022,+3 %
+Spelmansvägen 11,Röksta, Eskilstuna kommun,72 + 72 ,   5,664 ,2 900 000 ,19/05/2022,-3 %
+Lundavägen 3,Valla, Katrineholms kommun,80 + 80 ,   5,1 150 000 ,19/05/2022,+21 %
+Timmermansgatan 16,Trosa, Trosa kommun,147 ,   5,417 ,3 650 000 ,18/05/2022,+12 %
+Gölstorpsvägen 5,Ärla, Eskilstuna kommun,168 + 9 ,   7,1 213 ,2 750 000 ,18/05/2022,-8 %
+Landsvägsgatan 16,Sköldinge, Katrineholms kommun,144 + 62 ,   5,879 ,1 700 000 ,18/05/2022,-10 %
+Skolgatan 4,Gnesta, Gnesta kommun,264 + 132 ,   8,1 523 ,9 900 000 ,18/05/2022,+42 %
+Rådhusgatan 13,Valla, Katrineholms kommun,96 + 63 ,   3,1 003 ,1 570 000 ,17/05/2022,-2 %
+Holmstugevägen 11,Nyköping, Nyköpings kommun,146,6 ,   6,5 500 000 ,17/05/2022,-3 %
+Östra Viggeby 22,Mariefred, Strängnäs kommun,101 ,   3,2 018 ,2 400 000 ,17/05/2022,-11 %
+Olivehällsvägen 30,Storgärdet-Tallåsen-Tosterö, Strängnäs kommun,170 + 40 ,  ,840 ,4 925 000 ,17/05/2022,-1 %
+Porsvägen 17,Gisekvarn, Trosa kommun,53 ,   3,3 841 ,4 100 000 ,16/05/2022,+17 %
+Vreta Björnberget 45,Stallarholmen, Strängnäs kommun,126 ,   3,2 611 ,5 565 000 ,16/05/2022,+21 %
+Kjulaåsen Årby 1,Kjula, Eskilstuna kommun,95 + 4 ,   5,4 426 ,3 250 000 ,16/05/2022,+9 %
+Prins Wilhelms väg 13,Flen, Flens kommun,190 + 30 ,   8,500 ,2 010 000 ,16/05/2022,+2 %
+Snälltorpsgatan 21,Grangärdet, Eskilstuna kommun,106 + 43 ,   5,1 496 ,4 600 000 ,16/05/2022,+24 %
+Skogsvägen 15,Skogstorp, Eskilstuna kommun,88 + 63 ,   4,897 ,3 100 000 ,16/05/2022,+4 %
+Tryntorp,Gnesta kommun,20 ,  ,1 662 ,595 000 ,6/05/2022,±0 %
+Gustaf-Adolfsvägen 8,Oppeby, Nyköpings kommun,92 + 65 ,   5,573 ,3 750 000 ,6/05/2022,+1 %
+Vävarvägen 8,Strängnäs, Strängnäs kommun,167 ,   4,1 149 ,7 250 000 ,6/05/2022,-3 %
+Kantvägen 8,Stjärnhov, Gnesta kommun,165 + 99 ,   5,1 011 ,2 356 000 ,5/05/2022,+5 %
+Öllösa 3,Öllösa, Gnesta kommun,69 + 77 ,   3,3 955 ,1 800 000 ,5/05/2022,+14 %
+Malmby Marieberg 3,Strängnäs kommun,125 + 30 ,   6,1 838 ,5 200 000 ,5/05/2022,+4 %
+Rörviksvägen 50,Läppe, Vingåkers kommun,90 + 52 ,   4,1 000 ,2 100 000 ,5/05/2022,-22 %
+Nytorgsgatan 17,Oxelösund, Oxelösunds kommun,166 + 40 ,   6,1 261 ,3 650 000 ,5/05/2022,-5 %
+Femöresundsvägen 3,Femöre, Oxelösunds kommun,101 + 52 ,   4,1 181 ,3 495 000 ,5/05/2022,-8 %
+Videvägen 3,Mariefred, Strängnäs kommun,107 ,   4,2 091 ,3 600 000 ,4/05/2022,+16 %
+Jaktstigen 11,Laggarhult, Katrineholms kommun,136 + 59 ,   6,890 ,4 350 000 ,3/05/2022,+12 %
+Mörtsjövägen 22,Tystberga Kvegerö, Nyköpings kommun,  2 107 ,695 000 ,3/05/2022,±0 %
+Hundbyvägen 24,Hundby, Gnesta kommun,85 + 30 ,   4,2 053 ,4 200 000 ,3/05/2022,+1 %
+Lids kyrkby 6,Lid, Nyköpings kommun,74 + 76 ,   6,655 ,2 990 000 ,3/05/2022,+7 %
+Långsved 3,Barva Södermanland, Eskilstuna kommun,156 ,   6,2 264 ,1 420 000 ,3/05/2022,+10 %
+Bintjevägen 15,Forssjö, Katrineholms kommun,139 ,   5,4 841 000 ,2/05/2022,+10 %
+Solgårdsvägen 24,Strängnäs kommun,52 ,   2,1 917 ,2 900 000 ,2/05/2022,+16 %
+Björndammen Smedjebacken,Malmköping, Flens kommun,66 ,   2,1 749 ,3 050 000 ,30/04/2022,+3 %
+Fornminnesvägen 12,Centrala Gnesta, Gnesta kommun,155 + 20 ,   6,876 ,3 675 000 ,29/04/2022,+15 %
+Lärkvägen 8,Odlaren, Eskilstuna kommun,135 + 70 ,   6,1 976 ,6 400 000 ,29/04/2022,+22 %
+Kärrboda Ekhöjden 1,Kärrboda, Nyköpings kommun,90 ,   5,1 493 ,4 500 000 ,29/04/2022,+7 %
+Sälltäppan 2,Julita, Katrineholms kommun,80 + 6 ,   3,1 792 ,1 250 000 ,29/04/2022,-17 %
+Brandkärrsvägen 6,Brandkärr, Nyköpings kommun,102 + 102 ,   5,1 065 ,4 700 000 ,29/04/2022,+1 %
+Torsborgsgatan 2,Snopptorp Eskilstuna, Eskilstuna kommun,280 + 72 ,   9,1 488 ,9 750 000 ,29/04/2022,-9 %
+Merlänna Borghagen 4,Strängnäs kommun,123 ,   4,1 847 ,4 050 000 ,28/04/2022,+27 %
+Hammarby 1,Stigtomta, Nyköpings kommun,103 + 98 ,   7,6 240 ,4 350 000 ,28/04/2022,+25 %
+Ringvägen 4,Kvicksund, Eskilstuna kommun,170 + 35 ,   8,1 307 ,4 800 000 ,28/04/2022,+7 %
+Lilla Trana 1,Länna, Strängnäs kommun,136 ,   5,1 445 ,2 950 000 ,28/04/2022,±0 %
+Hägerbo Storgården,Valla, Katrineholms kommun,215 + 110 ,   6,2 790 ,2 510 000 ,28/04/2022,+36 %
+Oxelvägen 6,Björnlunda tätort, Gnesta kommun,104 + 104 ,   7,1 081 ,3 230 000 ,28/04/2022,+16 %
+Hjälmargårdsvägen 20,Läppe, Vingåkers kommun,52 ,   3,1 508 ,1 830 000 ,21/04/2022,+22 %
+Humlegatan 43,Vingåker, Vingåkers kommun,109 + 109 ,   5,1 132 ,1 750 000 ,21/04/2022,+6 %
+Eklången Elgarne,Eklången, Eskilstuna kommun,134 ,   4,16 104 ,4 000 000 ,21/04/2022,+14 %
+Skogsvägen 6,Strångsjö, Katrineholms kommun,101 + 101 ,   6,1 478 ,2 400 000 ,21/04/2022,+26 %
+Skeppargatan 4,Trosa Centralt, Trosa kommun,84 + 84 ,   6,848 ,8 000 000 ,20/04/2022,+47 %
+Larslund Ekenhov 1,Larslund, Nyköpings kommun,120 + 69 ,   5,1 554 ,3 600 000 ,20/04/2022,-6 %
+Annedalsgatan 15,Vingåker, Vingåkers kommun,149 + 113 ,   5,687 ,2 300 000 ,20/04/2022,+5 %
+Snickarvägen 21,Stigtomta, Nyköpings kommun,98 + 98 ,   6,533 ,2 650 000 ,20/04/2022,+6 %
+Ladeby Myggebo,Lista, Eskilstuna kommun,80 ,   3,2 487 ,2 750 000 ,19/04/2022,+2 %
+Kognevägen 7,Kogne, Eskilstuna kommun,116 + 55 ,   3,2 045 ,2 750 000 ,19/04/2022,+20 %
+Edanövägen 36,Trosa, Trosa kommun,220 ,   5,3 225 ,11 850 000 ,19/04/2022,+19 %
+Mjölnare Isidors väg 22,Öllösa, Gnesta kommun,55 + 13 ,   3,1 201 ,2 400 000 ,17/04/2022,+20 %
+Ehrendalskvarn 3,Gnesta, Gnesta kommun,78 + 16 ,   4,1 731 ,3 580 000 ,16/04/2022,+20 %
+Sländstigen 11,Bryngelstorp, Nyköpings kommun,112 + 112 ,   5,1 276 ,4 050 000 ,16/04/2022,+2 %
+Lundby Kvarndammen 1,Lantligt, Gnesta kommun,95 + 54 ,   4,5 503 ,5 500 000 ,16/04/2022,+22 %
+Blåbärsvägen 10,Arnö, Nyköpings kommun,136 ,   6,366 ,3 500 000 ,16/04/2022,+3 %
+Hammarbyvägen 6,Västerljung, Trosa kommun,83 + 91 ,   6,1 117 ,3 850 000 ,15/04/2022,±0 %
+Storgatan 7+9,Gamla Torshälla, Eskilstuna kommun,341 ,   9,1 003 ,5 010 000 ,14/04/2022,+27 %
+Skördevägen 38,Åkers Styckebruk, Strängnäs kommun,116 ,   5,282 ,2 220 000 ,14/04/2022,+12 %
+Mervallatorp 1,Mervalla, Strängnäs kommun,120 ,   3,4 664 ,4 300 000 ,14/04/2022,+20 %
+Utsiktsvägen 5,Stadsskogen, Strängnäs kommun,134 ,   5,915 ,5 200 000 ,14/04/2022,+16 %
+Änglundavägen 3,Flen, Flens kommun,123 ,   5,837 ,1 295 000 ,14/04/2022,±0 %
+Långsjövägen 14,Hållsta, Gnesta kommun,69 + 40 ,   3,2 488 ,3 800 000 ,13/04/2022,+29 %
+Björndammen Smedjan,Malmköping, Flens kommun,119 ,   5,1 671 ,4 325 000 ,13/04/2022,+20 %
+Sämjevägen 11,Centralt, Gnesta kommun,113 ,   5,800 ,3 860 000 ,13/04/2022,+19 %
+Krattvägen 10,Skogstorp, Eskilstuna kommun,161 ,   7,1 034 ,5 050 000 ,13/04/2022,+1 %
+Gymnastikgatan 8,Malmköping Södermanland, Flens kommun,214 + 91 ,   8,975 ,4 700 000 ,13/04/2022,+24 %
+Höders väg 28,Svalsta, Nyköpings kommun,141 ,   6,979 ,3 500 000 ,13/04/2022,+6 %
+Dagghättestigen 2,Bryngelstorp, Nyköpings kommun,106 + 2 ,   4,729 ,4 600 000 ,13/04/2022,+15 %
+Skolgatan 9,Norr, Katrineholms kommun,168 + 60 ,   6,766 ,4 600 000 ,12/04/2022,+18 %
+Tapetserarvägen 38,Brottsta, Eskilstuna kommun,138 + 20 ,   4,451 ,3 800 000 ,12/04/2022,+9 %
+Mörtsjövägen 15,Kvegerös Fritidshusområde, Nyköpings kommun,70 + 30 ,   4,1 884 ,3 000 000 ,7/04/2022,+12 %
+Kriken Villa ekhagen 1,Kriken / Löt, Strängnäs kommun,150 + 24 ,   6,4 496 ,4 700 000 ,7/04/2022,+4 %
+Orionvägen 10,Hållsta, Gnesta kommun,60 ,   3,1 517 ,2 220 000 ,7/04/2022,+33 %
+Käxlevägen 13,Stjärnhov, Gnesta kommun,355 + 140 ,  ,4 618 ,5 700 000 ,7/04/2022,+4 %
+Tryffelstigen 7,Bryngelstorp, Nyköpings kommun,131 + 131 ,   7,840 ,6 800 000 ,7/04/2022,+36 %
+Jägaregatan 16,Centralt, Vingåkers kommun,120 + 60 ,  ,1 008 ,1 425 000 ,7/04/2022,-8 %
+Bärbovägen 3B,Stigtomta, Nyköpings kommun,184 + 60 ,   5,1 519 ,5 650 000 ,7/04/2022,+3 %
+Trollskärsvägen 31C,Slätviken, Eskilstuna kommun,76 ,   3,2 033 ,2 575 000 ,7/04/2022,-8 %
+Grepvägen 10,Skogstorp, Eskilstuna kommun,152 ,   6,425 ,3 195 000 ,6/04/2022,±0 %
+Långbro Uddberga,Vagnhärad, Trosa kommun,46 ,   2,950 ,2 350 000 ,6/04/2022,+59 %
+Skarvnäsvägen 19,Sparreholm, Flens kommun,120 + 42 ,   5,2 384 ,2 100 000 ,6/04/2022,±0 %
+Hagstugevägen 3,Lappetorp, Nyköpings kommun,156 ,   5,1 230 ,6 900 000 ,6/04/2022,+6 %
+Järnvägsgatan 10A,Sparreholm, Flens kommun,175 + 125 ,   10,838 ,1 600 000 ,6/04/2022,+61 %
+Stridsbergsgatan 1,Göksten, Eskilstuna kommun,82 + 89 ,   4,644 ,3 300 000 ,6/04/2022,+23 %
+Trollstigen 32,Arnö, Nyköpings kommun,156 + 9 ,   7,222 ,2 795 000 ,6/04/2022,-7 %
+Källvägen 22,Stjärnhov, Gnesta kommun,116 + 40 ,   5,1 198 ,2 750 000 ,5/04/2022,+31 %
+Ekgatan 13,Vannala, Vingåkers kommun,85 + 85 ,   4,1 075 ,1 750 000 ,4/04/2022,+6 %
+Blåbärsvägen 5,Högsjö, Vingåkers kommun,131 ,   5,1 306 ,1 495 000 ,4/04/2022,-9 %
+Amanuensgatan 43,Glömsta, Eskilstuna kommun,140 ,   5,580 ,3 100 000 ,3/04/2022,+4 %
+Nyblaeus väg 5,Åkers Styckebruk / Forsa, Strängnäs kommun,120 + 60 ,   6,1 800 ,3 600 000 ,2/04/2022,+4 %
+Karpvägen 1,Herresta/Mariefred, Strängnäs kommun,104 ,   5,2 226 ,5 700 000 ,2/04/2022,-12 %
+Stora Väsby 1,Vagnhärad, Trosa kommun,100 ,   5,3 008 ,4 020 000 ,1/04/2022,+46 %
+Östaviksvägen 32,Centralt, Strängnäs kommun,131 + 131 ,   4,1 564 ,3 300 000 ,25/03/2022,+10 %
+Korngatan 10,Katrineholm Nävertorp, Katrineholms kommun,96 ,   4,727 ,2 650 000 ,25/03/2022,-2 %
+Sörby Berghem 1,Björnlunda, Gnesta kommun,75 + 15 ,   4,1 468 ,2 900 000 ,25/03/2022,+21 %
+Snickarvägen 47,Lundby, Eskilstuna kommun,120 ,   5,910 ,3 350 000 ,24/03/2022,+2 %
+Solö 1,Solö, Nyköpings kommun,97 ,   4,2 685 ,2 895 000 ,24/03/2022,±0 %
+Smedjevägen 8,Björnlunda, Gnesta kommun,121 ,   4,1 400 ,2 430 000 ,24/03/2022,+22 %
+Kjulaby Väla gård,Kjula, Eskilstuna kommun,115 + 5 ,   4,7 987 ,4 050 000 ,23/03/2022,+85 %
+Skottbacken 12,Vansö, Strängnäs kommun,142 ,   7,922 ,3 650 000 ,23/03/2022,+2 %
+Annerovägen 29,Torshälla, Eskilstuna kommun,137 + 27 ,   5,1 850 ,3 295 000 ,23/03/2022,±0 %
+Södra Sundsvägen 187,Sund, Trosa kommun,182 + 102 ,   5,1 775 ,8 700 000 ,23/03/2022,+5 %
+Midgårdsvägen 8,Skebokvarn vid Båven, Flens kommun,51 ,   3,1 789 ,3 450 000 ,23/03/2022,+16 %
+Tosterö Dalgläntan 1,Strängnäs kommun,80 + 79 ,   3,1 944 ,3 675 000 ,23/03/2022,-3 %
+Kvarnängsvägen 23,Kvegerös Fritidshusområde, Nyköpings kommun,100 + 50 ,   6,2 159 ,3 450 000 ,22/03/2022,+16 %
+Envägen 6,Mariefred, Strängnäs kommun,90 + 84 ,   5,2 403 ,5 150 000 ,22/03/2022,+4 %
+Lundbyskog Rosenlund,Vingåker, Vingåkers kommun,115 + 16 ,   5,8 855 ,1 500 000 ,22/03/2022,+8 %
+Bergsundsvägen 4,Gamla Oxelösund, Oxelösunds kommun,165 ,   8,696 ,9 600 000 ,22/03/2022,+23 %
+Gropptorp Vilsta,Katrineholm, Vingåkers kommun,127 + 65 ,   5,3 230 ,2 300 000 ,22/03/2022,±0 %
+Broby Västergård 1,Eskilstuna kommun,164 + 18 ,   6,2 108 ,3 500 000 ,22/03/2022,+8 %
+Tuna Sandstugan Enbacken 1,Nyköpings kommun,170 + 20 ,   8,3 410 ,4 700 000 ,21/03/2022,+11 %
+Tibastvägen 4,Mälby, Eskilstuna kommun,100 + 46 ,   2,1 349 ,4 700 000 ,21/03/2022,+11 %
+Liljemossvägen 12,Marifred- Edeby, Strängnäs kommun,80 ,   4,1 735 ,3 500 000 ,12/03/2022,+17 %
+Betesgången 40,Trosa, Trosa kommun,135 ,   5,198 ,3 600 000 ,11/03/2022,+4 %
+Bohnstedts väg 13,Ärla, Eskilstuna kommun,81 + 81 ,   3,1 040 ,2 810 000 ,11/03/2022,+9 %
+Kungsstrand 3,Trosa, Trosa kommun,175 ,   6,816 ,8 030 000 ,10/03/2022,+21 %
+Matrosgatan 4,Trosa, Trosa kommun,142 ,   6,345 ,4 325 000 ,10/03/2022,+24 %
+Örnvägen 5,Borsökna, Eskilstuna kommun,172 + 16 ,   7,1 471 ,8 300 000 ,10/03/2022,+14 %
+Örnvägen 2,Forssjö, Katrineholms kommun,165 ,   6,842 ,3 400 000 ,10/03/2022,-3 %
+Floravägen 9,Lasarettsområdet, Nyköpings kommun,118 + 73 ,   6,648 ,6 635 000 ,10/03/2022,+33 %
+Lönnvägen 3,Stjärnhov, Gnesta kommun,120 ,   4,1 006 ,2 495 000 ,9/03/2022,±0 %
+Önsta Önstaäng,Skogstorp, Eskilstuna kommun,126 ,   5,1 683 ,4 950 000 ,9/03/2022,+10 %
+Mejerivägen 11,Mariefred, Strängnäs kommun,145 ,   7,263 ,6 200 000 ,9/03/2022,±0 %
+Malmvägen 13,Trosa, Trosa kommun,153 + 10 ,   6,1 589 ,5 600 000 ,8/03/2022,+6 %
+Djungelvägen 23,Sunda, Oxelösunds kommun,84 + 84 ,   4,768 ,3 400 000 ,7/03/2022,+14 %
+Bollplansvägen 18,Sundbyholm, Eskilstuna kommun,146 + 9 ,   6,1 022 ,4 900 000 ,7/03/2022,+5 %
+Stallgårdsvägen 40,Söder, Katrineholms kommun,104 + 104 ,   4,805 ,3 200 000 ,6/03/2022,+7 %
+Svarvarvägen 11,Åkers styckebruk, Strängnäs kommun,151 + 54 ,   6,729 ,4 250 000 ,6/03/2022,±0 %
+Mälhammar Klippan,Kvicksund, Eskilstuna kommun,49 + 12 ,   1,1 160 ,2 250 000 ,6/03/2022,+13 %
+Östermalmsvägen 24,Östermalmsområdet, Trosa kommun,160 ,   6,1 770 ,9 125 000 ,5/03/2022,+7 %
+Repslagarvägen 40,Vingåker, Vingåkers kommun,113 + 44 ,   5,1 483 ,2 500 000 ,4/03/2022,+4 %
+Lena Marielund 2,Flens kommun,82 ,   3,6 381 ,1 575 000 ,4/03/2022,-1 %
+Länsmansvägen 9,Vagnhärad, Trosa kommun,184 + 92 ,   9,2 024 ,7 205 000 ,4/03/2022,+46 %
+Furuvägen 9,Valla, Katrineholms kommun,145 ,   6,937 ,1 900 000 ,4/03/2022,+6 %
+Tandlavägen 20,Hållsta, Eskilstuna kommun,131 + 29 ,   6,2 510 ,3 000 000 ,4/03/2022,±0 %
+Fredsvägen 10,Strängnäs, Strängnäs kommun,195 + 130 ,   10,1 091 ,8 600 000 ,4/03/2022,+5 %
+Modes väg 19,Nya Svalsta, Nyköpings kommun,126 ,   4,953 ,4 550 000 ,24/02/2022,+1 %
+Åsgatan 68,Öster, Katrineholms kommun,95 ,   4,602 ,3 000 000 ,23/02/2022,+16 %
+Skärlagsgatan 17,Trosa, Trosa kommun,113 + 126 ,   6,992 ,5 550 000 ,23/02/2022,+12 %
+Näsuddsvägen 55C,Danvik, Oxelösunds kommun,115 ,   4,180 ,2 150 000 ,23/02/2022,-2 %
+Biby Sätran 1 och Biby Sätran 2,Gillberga/Biby, Eskilstuna kommun,177 + 16 ,   5,3 471 ,3 500 000 ,22/02/2022,+6 %
+Örnvägen 8,Vallsund, Oxelösunds kommun,239 + 69 ,   8,1 010 ,4 950 000 ,22/02/2022,+4 %
+Konungsö Tallbacken,Västermo, Eskilstuna kommun,100 ,   4,2 677 ,2 375 000 ,21/02/2022,+10 %
+Almvägen 6,Kjula, Eskilstuna kommun,132 + 9 ,   5,987 ,3 080 000 ,18/02/2022,+19 %
+Bergsvägen 1,Trosa Västra Fän, Trosa kommun,225 + 72 ,   6,2 271 ,9 000 000 ,18/02/2022,+6 %
+Edstorpsvägen 42,Edstorp, Nyköpings kommun,107 ,   3,1 798 ,3 850 000 ,18/02/2022,+10 %
+Rossviksvägen 1,Hållsta, Eskilstuna kommun,108 + 108 ,   4,1 327 ,2 725 000 ,18/02/2022,+14 %
+Fågelögatan 21,Trosa, Trosa kommun,187 + 99 ,   7,920 ,7 200 000 ,17/02/2022,+37 %
+Gryts-Bresätter Lindsbacka 1,Stjärnhov, Gnesta kommun,79 + 5 ,   4,2 200 ,2 800 000 ,17/02/2022,+12 %
+Ekbocksrundan 29,Bryngelstorp, Nyköpings kommun,68 + 10 ,   2,331 ,2 525 000 ,17/02/2022,+12 %
+Tosterö Norrby 14,Tosterö Norrby, Strängnäs kommun,150 ,   6,2 081 ,4 700 000 ,4/02/2022,+5 %
+Tallåsvägen 3,Katrineholm Öster, Katrineholms kommun,95 ,   4,875 ,2 800 000 ,3/02/2022,+40 %
+Torparängsvägen 38,Sundby Strand, Strängnäs kommun,134 + 55 ,   4,1 195 ,5 200 000 ,3/02/2022,-3 %
+Dammkärrsvägen 18,Stavsjö, Nyköpings kommun,87 + 74 ,   3,1 465 ,2 230 000 ,3/02/2022,+32 %
+Tegelslagaregatan 6,Valla, Katrineholms kommun,105 + 103 ,   4,824 ,1 850 000 ,2/02/2022,±0 %
+Sötriskestigen 10,Bryngelstorp, Nyköpings kommun,160 + 7 ,   6,423 ,4 350 000 ,2/02/2022,+13 %
+Lingonstigen 16,Björkvik, Katrineholms kommun,88 ,   4,1 265 ,2 220 000 ,2/02/2022,+11 %
+Tuvängen 1,Öster Malma, Nyköpings kommun,156 + 80 ,   6,17 521 ,7 500 000 ,2/02/2022,+22 %
+Fridshällsvägen 6,Gnesta, Gnesta kommun,81 + 81 ,   5,1 091 ,3 850 000 ,2/02/2022,+33 %
+Axala Stene 1,Björnlunda, Gnesta kommun,107 + 55 ,   5,3 419 ,2 200 000 ,31/01/2022,+21 %
+Plommongången 4,Krikonbacken, Nyköpings kommun,99 ,   4,388 ,3 100 000 ,31/01/2022,-6 %
+Melinsvägen 7,Skogstorp, Eskilstuna kommun,126 + 35 ,   5,756 ,3 750 000 ,31/01/2022,+7 %
+Erlangengatan 8,Västermalm, Eskilstuna kommun,210 + 16 ,   11,1 154 ,6 200 000 ,30/01/2022,+13 %
+Norra Stationsvägen 2,Hällberga, Eskilstuna kommun,135 + 60 ,   6,1 500 ,2 925 000 ,29/01/2022,+9 %
+Kolstuguvägen 11B,Väster, Katrineholms kommun,94 + 6 ,   4,637 ,1 900 000 ,28/01/2022,±0 %
+Falkvägen 15,Tystberga, Nyköpings kommun,84 + 84 ,   4,2 008 ,2 500 000 ,28/01/2022,+19 %
+Åkervägen 15,Ulvhäll, Strängnäs kommun,113 + 144 ,   7,766 ,5 450 000 ,28/01/2022,+25 %
+Spjutvägen 20,Sunda, Oxelösunds kommun,103 + 103 ,   7,1 157 ,3 950 000 ,12/01/2022,+23 %
+Vannalavägen 55,Vingåker, Vingåkers kommun,123 ,   4,1 174 ,1 400 000 ,11/01/2022,+8 %
+Kilstavägen 16,Baggetorp, Vingåkers kommun,134 + 46 ,   5,913 ,1 595 000 ,11/01/2022,±0 %
+Solbackavägen 2,Mariefred, Strängnäs kommun,115 + 146 ,   7,914 ,4 300 000 ,10/01/2022,-14 %
+Trädgårdsgatan 14,Malmköping, Flens kommun,119 + 98 ,   5,743 ,2 100 000 ,7/01/2022,+11 %
+Höjdvägen 8,Stjärnhov, Gnesta kommun,106 + 50 ,   4,1 686 ,2 650 000 ,7/01/2022,+22 %
+Lärkvägen 16,Nyköpings kommun,111 + 49 ,   5,1 294 ,2 795 000 ,6/01/2022,±0 %
+Pionjärvägen 9,Stallarholmen, Strängnäs kommun,154 + 85 ,   5,2 784 ,5 350 000 ,3/01/2022,-3 %
+Torpvägen 13,Öster, Katrineholms kommun,122 + 101 ,   6,766 ,3 895 000 ,29/12/2021,±0 %
+Nyckelvägen 5,Sparreholm, Flens kommun,139 + 29 ,   4,2 006 ,1 995 000 ,23/12/2021,±0 %
+Furuvägen 3,Högsjö, Vingåkers kommun,120 + 62 ,   5,1 152 ,1 410 000 ,23/12/2021,+9 %
+Sundby strandväg 1,Sundby Strand, Strängnäs kommun,260 ,   9,1 163 ,8 000 000 ,23/12/2021,+7 %
+Apollovägen 10,Ärla, Eskilstuna kommun,122 ,   5,2 950 ,4 125 000 ,22/12/2021,+15 %
+Mejramvägen 5,Arnö, Nyköpings kommun,149 + 6 ,   7,487 ,3 845 000 ,21/12/2021,+7 %
+Åkerbyslingan 2,Sundby Strand, Strängnäs kommun,190 ,   6,6 600 000 ,21/12/2021,+5 %
+Almvägen 5,Kjula, Eskilstuna kommun,159 ,   7,914 ,3 250 000 ,20/12/2021,±0 %
+Gultbrunnsvägen 7,Slagsta, Eskilstuna kommun,95 + 95 ,   4,1 391 ,3 875 000 ,20/12/2021,+6 %
+Brunnsåkersvägen 34,Brunnsåker, Strängnäs kommun,145 ,   5,1 503 ,3 375 000 ,20/12/2021,-8 %
+Taltrastvägen 12,Borsökna, Eskilstuna kommun,123 ,   4,1 155 ,5 000 000 ,19/12/2021,+11 %
+Berghemsgatan 11B,Centralt, Gnesta kommun,120 ,   3,635 ,3 420 000 ,18/12/2021,+18 %
+Nedre gatan 16,Julita, Vingåkers kommun,116 + 42 ,   4,1 088 ,1 500 000 ,17/12/2021,-12 %
+Winges väg 6,Högbrunn, Nyköpings kommun,68 + 68 ,   5,622 ,2 990 000 ,17/12/2021,±0 %
+Nygatan 24,Gnesta, Gnesta kommun,110 + 108 ,   8,1 270 ,4 000 000 ,1/12/2021,+5 %
+Västerviksgatan 14,Centralt/Västerviken/Hamnen, Strängnäs kommun,187 + 75 ,   6,587 ,11 150 000 ,1/12/2021,+3 %
+Djurgårdsgatan 23 / Nygatan 6,Mariefred, Strängnäs kommun,251 + 122 ,   9,604 ,13 000 000 ,1/12/2021,±0 %
+Nyckelstugan 1,Stallarholmen, Strängnäs kommun,92 + 30 ,   3,7 199 ,4 600 000 ,1/12/2021,+5 %
+Bieåsen 58,Bie, Katrineholms kommun,113 + 20 ,   6,534 ,1 195 000 ,29/11/2021,±0 %
+Tjädervägen 3,Ängsholmen, Eskilstuna kommun,101 + 17 ,   4,1 304 ,1 900 000 ,29/11/2021,+27 %
+Talltullvägen 22,Backa, Katrineholms kommun,75 + 75 ,  ,894 ,2 295 000 ,29/11/2021,±0 %
+Stora Häradsäng Snickarbacken,Stålbåga, Eskilstuna kommun,80 ,   3,3 741 ,2 130 000 ,29/11/2021,+34 %
+Tullportsgatan 13,Nyköping, Nyköpings kommun,134 + 6 ,   5,185 ,5 400 000 ,28/11/2021,-6 %
+Sättersta Onsberga 1,Nyköpings kommun,170 + 44 ,   5,4 483 ,5 950 000 ,27/11/2021,+29 %
+Bladbaggestigen 9,Bryngelstorp, Nyköpings kommun,138 + 12 ,   6,393 ,3 900 000 ,27/11/2021,+31 %
+Kvarnängsvägen 26,Tystberga Kvegerö, Nyköpings kommun,72 + 52 ,   4,2 395 ,2 910 000 ,26/11/2021,+29 %
+Lövbacksvägen 11,Djulö, Katrineholms kommun,117 + 117 ,   6,933 ,3 550 000 ,26/11/2021,+8 %
+Marsjö Sjöliden,Vingåker med omnejd, Vingåkers kommun,145 ,   6,9 870 ,3 250 000 ,26/11/2021,+9 %
+Vrena Nytorp Solgården 1,Vrena Nytorp, Nyköpings kommun,102 + 26 ,   5,3 430 ,5 400 000 ,26/11/2021,+26 %
+Åsbyvägen 37B,Ekeby, Eskilstuna kommun,131 + 45 ,   4,763 ,4 300 000 ,26/11/2021,+13 %
+Granskogsgatan 20,Snälltorpet, Eskilstuna kommun,270 + 45 ,   7,1 013 ,10 760 000 ,25/11/2021,+27 %
+Hagavägen 19,Bie, Katrineholms kommun,131 ,   5,916 ,2 300 000 ,25/11/2021,±0 %
+Johannisdal,sparreholm, Flens kommun,300 + 37 ,   11,1 324 ,3 500 000 ,25/11/2021,-7 %
+Sländstigen 15,Bryngelstorp, Nyköpings kommun,148 + 148 ,   9,1 512 ,5 700 000 ,14/11/2021,+14 %
+Hammarbyvägen 14,Västerljung, Trosa kommun,115 + 59 ,   5,1 355 ,4 975 000 ,14/11/2021,±0 %
+Smältargatan 3,Torshälla, Eskilstuna kommun,148 ,   6,577 ,3 250 000 ,14/11/2021,+72 %
+Vik Viksbo,Vingåker, Vingåkers kommun,121 + 42 ,   4,1 753 ,1 875 000 ,13/11/2021,+25 %
+Insektsvägen 6,Bryngelstorp, Nyköpings kommun,99 + 99 ,   5,950 ,4 200 000 ,12/11/2021,+29 %
+Värmlandsgatan 13,Valla, Katrineholms kommun,108 + 66 ,   4,981 ,1 200 000 ,12/11/2021,-11 %
+Djupvik gård,Trosa kommun,176 + 35 ,   8,31 300 ,11 100 000 ,12/11/2021,+17 %
+Humlegatan 5,Vingåker, Vingåkers kommun,123 + 123 ,   7,987 ,1 300 000 ,11/11/2021,±0 %
+Tallåsstigen 13,Danvik, Oxelösunds kommun,116 ,   4,200 ,2 000 000 ,11/11/2021,-7 %
+Bönstavägen 18,Hagalund, Nyköpings kommun,113 + 88 ,   5,980 ,4 525 000 ,11/11/2021,+19 %
+Timmervägen 4,Buskhyttan, Nyköpings kommun,143 ,   5,1 063 ,4 725 000 ,11/11/2021,+3 %
+Ringduvevägen 22,Borsökna Väster, Eskilstuna kommun,81 ,   3,1 385 ,3 425 000 ,11/11/2021,+14 %
+Hattmakarvägen 2,Brottsta, Eskilstuna kommun,117 + 36 ,   6,969 ,4 500 000 ,10/11/2021,+33 %
+Björktorpsvägen 32,Strängnäs, Strängnäs kommun,164 + 13 ,   5,2 037 ,2 900 000 ,10/11/2021,+4 %
+Alby Äng 7,Vagnhärad, Trosa kommun,124 ,   5,1 158 ,5 560 000 ,9/11/2021,+28 %
+Granitvägen 23,Trosa, Trosa kommun,130 + 80 ,   5,1 835 ,4 000 000 ,9/11/2021,-5 %
+Rosenbergsgatan 33,Östermalm, Eskilstuna kommun,120 + 58 ,   5,847 ,3 050 000 ,9/11/2021,+15 %
+Kerstinbodagatan 13,Väster, Katrineholms kommun,113 + 59 ,   4,1 070 ,2 000 000 ,8/11/2021,+6 %
+Husbyvägen 5A,Husby Byn, Eskilstuna kommun,125 ,   4,843 ,3 630 000 ,8/11/2021,+4 %
+Bie Fredrikshall,Katrineholms kommun,119 ,   4,1 306 ,2 700 000 ,7/11/2021,+18 %
+Värhulta Norrängen,Värhulta, Eskilstuna kommun,86 + 40 ,   3,2 743 ,800 000 ,5/11/2021,-19 %
+Stenstagatan 10,Gnesta, Gnesta kommun,250 + 44 ,   12,669 ,7 900 000 ,4/11/2021,+16 %
+Viala Lövlunda,Viala, Vingåkers kommun,50 + 55 ,   2,2 455 ,1 475 000 ,4/11/2021,+14 %
+Roxnäsvägen 19,Roxnäs, Eskilstuna kommun,95 ,   4,1 900 ,2 250 000 ,27/10/2021,-10 %
+Lilla Åsa Hägerås,Sköldinge, Katrineholms kommun,108 + 40 ,   5,4 966 ,2 300 000 ,27/10/2021,-7 %
+Strandvägen 2,Sparreholm Södermanland, Flens kommun,260 + 22 ,   9,11 136 ,11 100 000 ,27/10/2021,+11 %
+Bäringsvägen 2,Femöresund/Stenvik, Oxelösunds kommun,69 + 69 ,   3,841 ,2 200 000 ,26/10/2021,+5 %
+Gropängsvägen 7,Laggarhult, Katrineholms kommun,102 + 123 ,   7,894 ,3 500 000 ,26/10/2021,-5 %
+Kärnbogatan 8A,Mariefred, Strängnäs kommun,230 + 6 ,   6,142 ,8 125 000 ,26/10/2021,+2 %
+Mälbyvägen 73,Mälby, Eskilstuna kommun,152 ,   6,1 782 ,6 500 000 ,26/10/2021,+25 %
+Västergårdsvägen 24,Valla, Katrineholms kommun,121 + 63 ,   5,1 164 ,2 300 000 ,26/10/2021,+24 %
+Storviltsvägen 12,Sunda, Oxelösunds kommun,120 + 38 ,   5,340 ,3 100 000 ,26/10/2021,+15 %
+Hargsvägen 8,Harg, Nyköpings kommun,86 + 86 ,   5,1 144 ,3 775 000 ,26/10/2021,-6 %
+Drejarvägen 25,Stigtomta, Nyköpings kommun,160 ,   6,461 ,3 250 000 ,23/10/2021,+9 %
+Harstigen 8,STADSSKOGEN, Strängnäs kommun,140 + 140 ,   7,900 ,5 900 000 ,22/10/2021,+9 %
+Prinsgatan 27,Katrineholm Centrum, Katrineholms kommun,229 + 113 ,   7,943 ,5 400 000 ,22/10/2021,-16 %
+Norra Stationsvägen 18,Hällberga, Eskilstuna kommun,99 + 99 ,   6,954 ,2 000 000 ,22/10/2021,+11 %
+Ekvägen 7,Tystberga, Nyköpings kommun,134 + 16 ,   5,900 ,2 195 000 ,22/10/2021,±0 %
+Mosstorp Marieberg,Flens kommun,53 + 5 ,   3,4 989 ,2 550 000 ,22/10/2021,+2 %
+Syrénvägen 12,Mälby Torshälla, Eskilstuna kommun,120 ,   4,2 022 ,3 660 000 ,22/10/2021,+2 %
+Lövhagsvägen 12,Trosa Lagnöviken, Trosa kommun,118 + 29 ,   5,1 295 ,2 900 000 ,21/10/2021,+7 %
+Avlebro Villa Berg 1,Trosa, Trosa kommun,21 ,   1,1 943 ,1 150 000 ,21/10/2021,±0 %
+Tazettvägen 2,Ekensberg, Nyköpings kommun,131 + 7 ,   4,939 ,4 575 000 ,12/10/2021,+17 %
+Dikesvägen 6,Mälby, Eskilstuna kommun,125 ,   4,978 ,5 000 000 ,12/10/2021,+9 %
+Koboltvägen 22,Stenbro, Nyköpings kommun,144 ,   6,1 122 ,5 500 000 ,12/10/2021,+10 %
+Biby Kohagen,Eskilstuna kommun,140 ,   5,2 658 ,2 600 000 ,11/10/2021,-4 %
+Larslund Kristineborg 1,Lantligt, Nyköpings kommun,130 + 76 ,   5,2 206 ,3 500 000 ,10/10/2021,±0 %
+Hagabergsvägen 39,Hagaberg, Trosa kommun,178 ,   6,970 ,7 550 000 ,9/10/2021,+1 %
+Dalgatan 12,Centralt, Gnesta kommun,120 + 120 ,   5,1 175 ,5 170 000 ,9/10/2021,+9 %
+Björkhammarvägen 1,Kvicksund, Eskilstuna kommun,203 + 25 ,   7,2 147 ,8 250 000 ,8/10/2021,-3 %
+Väla Fridenslund,Katrineholms kommun,158 ,   5,4 645 ,4 230 000 ,8/10/2021,+28 %
+Tvärvägen 2,Vingåker, Vingåkers kommun,63 + 61 ,  ,2 899 ,1 565 000 ,7/10/2021,+57 %
+Odonstigen 18,Finninge, Strängnäs kommun,130 + 6 ,   6,364 ,3 900 000 ,7/10/2021,+6 %
+Malma-Lundby Kvarntorp 2,Malmköping, Flens kommun,84 + 42 ,   3,4 877 ,2 350 000 ,7/10/2021,-9 %
+Klostergatan 14 A,Strängnäs, Strängnäs kommun,130 + 55 ,   5,463 ,7 495 000 ,7/10/2021,±0 %
+Insektsvägen 8,Bryngelstorp, Nyköpings kommun,144 + 94 ,   6,950 ,5 550 000 ,6/10/2021,+23 %
+Stavsvägen Eriksberg,Flens kommun,106 ,   3,1 498 ,2 650 000 ,6/10/2021,+11 %
+Vattugränd 1,Gnestahöjden, Gnesta kommun,69 + 5 ,   3,232 ,4 200 000 ,6/10/2021,+9 %
+Dalvägen 5,Kvicksund, Eskilstuna kommun,134 + 90 ,   6,1 582 ,5 495 000 ,6/10/2021,±0 %
+Statsfruvägen 20,Mariefred, Strängnäs kommun,116 + 17 ,   4,518 ,6 000 000 ,5/10/2021,+3 %
+Januarivägen 11C,Brogetorp, Flens kommun,134 ,   5,185 ,1 850 000 ,5/10/2021,+24 %
+Herdevägen 7,Finninge-Ulvhäll, Strängnäs kommun,110 + 122 ,   6,716 ,4 720 000 ,5/10/2021,+24 %
+Frustuna-Ekeby gård 1,Lantligt, Gnesta kommun,  64 557 ,11 000 000 ,5/10/2021,+2 %
+Vidargatan 12,Röksta, Eskilstuna kommun,88 + 40 ,   3,618 ,2 500 000 ,5/10/2021,±0 %
+Bjälketorp Fårhaga,Södermanland, Eskilstuna kommun,85 + 15 ,   4,4 457 ,2 360 000 ,5/10/2021,+5 %
+Sandviksvägen 24F,Björkvik, Katrineholms kommun,125 + 120 ,   7,1 190 ,2 800 000 ,4/10/2021,+12 %
+Tangovägen 1,Dansut, Gnesta kommun,175 ,   5,1 075 ,4 820 000 ,4/10/2021,+22 %
+Malmagatan 9,Malmköping, Flens kommun,132 + 166 ,   5,1 257 ,1 850 000 ,4/10/2021,+3 %
+Granhällsvägen 8,Malmby, Strängnäs kommun,65 + 60 ,   3,810 ,2 625 000 ,4/10/2021,-1 %
+Tallbitsvägen 7,Danvik, Oxelösunds kommun,141 + 68 ,   6,1 594 ,3 675 000 ,4/10/2021,+48 %
+Gnestavägen 20,Vagnhärad, Trosa kommun,86 + 86 ,   6,1 215 ,2 995 000 ,4/10/2021,±0 %
+Frustuna-Ekeby Elgbacken 1,Gnesta kommun,57 ,   3,2 579 ,2 125 000 ,3/10/2021,+29 %
+Älgstigen 13,Strängnäs, Strängnäs kommun,447 + 112 ,   13,1 553 ,9 000 000 ,3/10/2021,-5 %
+Krogvägen 1,Kvegerö, Nyköpings kommun,74 ,   4,1 860 ,3 500 000 ,28/09/2021,+7 %
+Modes väg 8,Nya Svalsta, Nyköpings kommun,126 + 36 ,   5,1 140 ,5 100 000 ,27/09/2021,-5 %
+Vängsö backe 9,Lantligt, Gnesta kommun,122 + 45 ,   5,1 624 ,4 560 000 ,26/09/2021,+10 %
+Ringugnsvägen 1,Stallarholmen, Strängnäs kommun,121 ,   4,1 045 ,3 950 000 ,26/09/2021,+5 %
+Östra Vingåkersvägen 12,Strångsjö, Katrineholms kommun,61 ,   3,958 ,850 000 ,26/09/2021,-5 %
+Hällbylund Myrstigen,Gillberga, Eskilstuna kommun,117 + 37 ,   5,4 005 ,2 555 000 ,25/09/2021,+2 %
+Stensjögatan 19,Öster, Katrineholms kommun,148 + 72 ,   6,775 ,3 025 000 ,25/09/2021,+2 %
+Remnavägen 21,Katrineholm Laggarhult, Katrineholms kommun,140 ,   5,788 ,3 060 000 ,24/09/2021,+33 %
+Rudsjövägen 9,Sanda, Strängnäs kommun,98 + 10 ,   4,1 929 ,2 900 000 ,24/09/2021,+5 %
+Nygatan 35,Sparreholm, Flens kommun,105 + 56 ,   4,1 072 ,2 050 000 ,24/09/2021,+14 %
+Bromby 5,Mariefred, Strängnäs kommun,125 ,   6,1 468 ,4 250 000 ,24/09/2021,+1 %
+Nygatan 3,Trosa, Trosa kommun,171 ,   6,999 ,7 500 000 ,23/09/2021,-6 %
+Rocketvägen 3,Katrineholms kommun,  1 060 ,900 000 ,23/09/2021,±0 %
+Mjölkörtsvägen 1,Strängnäs, Strängnäs kommun,167 + 40 ,   6,970 ,5 820 000 ,23/09/2021,+10 %
+Marsvägen 10,Brogetorp, Flens kommun,147 ,  ,556 ,2 460 000 ,23/09/2021,+25 %
+Herberts väg 3,Vagnhärad, Trosa kommun,138 ,   4,1 093 ,4 750 000 ,22/09/2021,±0 %
+Stenvägen 93D,Mariefred, Strängnäs kommun,103 ,   4,193 ,3 120 000 ,22/09/2021,+16 %
+Finningevägen 77,Strängnäs, Strängnäs kommun,200 + 30 ,   6,4 160 ,5 250 000 ,22/09/2021,-5 %
+Baggetorp Åkershall 1,Katrineholm, Vingåkers kommun,80 ,   4,1 520 ,1 340 000 ,22/09/2021,+3 %
+Johannistorp 5,Björktorp/Sanda, Strängnäs kommun,150 + 28 ,   6,1 544 ,3 900 000 ,22/09/2021,+8 %
+Rekylvägen 17,Sunda, Oxelösunds kommun,140 + 45 ,   5,690 ,3 525 000 ,21/09/2021,+18 %
+Östmarksvägen 15,Hälleforsnäs Tätort, Flens kommun,164 ,   5,861 ,3 300 000 ,21/09/2021,+12 %
+Ramsnäset 74,Arboga, Eskilstuna kommun,76 ,   2,1 566 ,2 025 000 ,21/09/2021,+19 %
+Målarvägen 5,Stigtomta, Nyköpings kommun,160 ,   6,893 ,4 620 000 ,21/09/2021,+30 %
+Tennvägen 2,Stenby, Eskilstuna kommun,122 + 6 ,   4,1 069 ,3 800 000 ,20/09/2021,+10 %
+Bie Rosenlund,Katrineholms kommun,95 + 57 ,   4,3 083 ,1 670 000 ,20/09/2021,+28 %
+Kallmyra Östergården 1,Spelvik, Nyköpings kommun,309 + 20 ,   8,5 455 ,4 575 000 ,20/09/2021,+17 %
+Reginvägen 4,Strängnäs, Strängnäs kommun,130 + 68 ,   7,647 ,7 000 000 ,20/09/2021,+8 %
+Björktorp 1,Björktorp, Strängnäs kommun,90 ,   4,5 163 ,3 500 000 ,13/09/2021,±0 %
+Trullholmsvägen 22,Djursvik/Skärgård, Oxelösunds kommun,145 ,   7,1 545 ,8 800 000 ,11/09/2021,-10 %
+Violvägen 188,Flen, Flens kommun,126 + 47 ,   6,1 640 ,3 625 000 ,11/09/2021,-3 %
+Bynäsvägen 17,Mesta, Eskilstuna kommun,115 + 2 ,   5,1 448 ,3 500 000 ,10/09/2021,+14 %
+Läppe Björkhaga,Vingåkers kommun,132 + 84 ,   5,4 834 ,3 000 000 ,10/09/2021,+9 %
+Öbolandsvägen 16,Trosa, Trosa kommun,131 ,   5,2 903 ,4 850 000 ,10/09/2021,-3 %
+Södra Sundsvägen 190,Vagnhärad, Trosa kommun,102 ,   4,2 081 ,3 910 000 ,10/09/2021,+12 %
+Jungfruhamnsvägen 2,Kvicksund, Eskilstuna kommun,89 ,   3,1 595 ,3 525 000 ,10/09/2021,+36 %
+Tegelgatan 16,Centralt, Vingåkers kommun,85 + 85 ,   3,1 000 ,1 450 000 ,9/09/2021,+4 %
+Tallvägen 15,Kjula, Eskilstuna kommun,112 + 97 ,   7,1 386 ,3 610 000 ,9/09/2021,+11 %
+Relingsvägen 4,Stenvik, Oxelösunds kommun,123 + 112 ,   7,1 188 ,4 475 000 ,9/09/2021,+23 %
+Backgatan 17,Ulvhäll, Strängnäs kommun,146 + 84 ,   6,1 612 ,4 625 000 ,9/09/2021,+11 %
+Fjälla Solhem 1,Fredön, Nyköpings kommun,114 + 67 ,   4,6 558 ,5 600 000 ,9/09/2021,±0 %
+Decembervägen 6,Brogetorp, Flens kommun,135 ,   6,1 036 ,3 495 000 ,9/09/2021,±0 %
+Sörstene 3,Trosa, Trosa kommun,108 + 100 ,   6,1 428 ,5 300 000 ,8/09/2021,+38 %
+Edanövägen 8,Trosa Öbolandet, Trosa kommun,62 ,   3,2 957 ,4 600 000 ,8/09/2021,+15 %
+Vikingagatan 15,Hälleforsnäs, Flens kommun,72 + 72 ,   3,1 130 ,820 000 ,31/08/2021,+23 %
+Gluggvägen 10,Hjälmsätters Fritidshusområde, Katrineholms kommun,56 ,   3,1 996 ,1 550 000 ,30/08/2021,-14 %
+Floragatan 3,Hälleforsnäs Tätort, Flens kommun,72 + 72 ,   3,1 927 ,1 420 000 ,30/08/2021,+19 %
+Pilvägen 5,Tystberga, Nyköpings kommun,117 ,   5,917 ,2 650 000 ,29/08/2021,+21 %
+Marsvägen 21,Flen, Flens kommun,144 + 8 ,   6,610 ,2 250 000 ,29/08/2021,+14 %
+Björksäter Hasselhagen,Lantligt, Flens kommun,51 + 37 ,   3,5 726 ,1 740 000 ,29/08/2021,+25 %
+Västra Granhed Solhaga,Katrineholms kommun,112 + 69 ,   5,1 776 ,1 500 000 ,28/08/2021,-16 %
+Klövervägen 2,Centrala Mariefred, Strängnäs kommun,141 + 88 ,   4,1 097 ,6 750 000 ,28/08/2021,+13 %
+Storgatan 25,Nybble, Flens kommun,97 + 63 ,   4,619 ,1 430 000 ,28/08/2021,+14 %
+Januarivägen 17A,Brogetorp, Flens kommun,134 ,   5,247 ,1 760 000 ,28/08/2021,+41 %
+Bäckvägen 10,Enstaberga, Nyköpings kommun,115 + 17 ,   5,1 337 ,2 950 000 ,27/08/2021,+64 %
+Tranvägen 12,Forssjö, Katrineholms kommun,112 + 112 ,   5,986 ,3 250 000 ,27/08/2021,+16 %
+Hagvägen 8,Trosa, Trosa kommun,190 + 40 ,   7,725 ,7 475 000 ,27/08/2021,±0 %
+Fredriksborg 5,Strängnäs kommun,85 + 41,2 ,   4,1 254 ,4 500 000 ,27/08/2021,±0 %
+Ekorrstigen 8,Katrineholm Värmbol, Katrineholms kommun,139 ,   5,826 ,2 800 000 ,27/08/2021,+4 %
+Hermelinvägen 18,Mariefred, Strängnäs kommun,83 ,   3,2 379 ,3 200 000 ,27/08/2021,±0 %
+Stallviksvägen 51,Sundbyholm, Eskilstuna kommun,58 ,   2,1 490 ,2 500 000 ,27/08/2021,+11 %
+Orionvägen 5,Hållsta, Gnesta kommun,90 ,   3,1 519 ,2 450 000 ,27/08/2021,+2 %
+Sveas väg 22,Bergshammar, Nyköpings kommun,103 + 123 ,   5,1 221 ,3 800 000 ,27/08/2021,+23 %
+Ringvägen 28,Jönåker, Nyköpings kommun,104 + 95 ,   5,1 240 ,2 550 000 ,27/08/2021,+2 %
+Boställsgatan 10,Valhalla, Eskilstuna kommun,69 + 69 ,   3,620 ,2 375 000 ,27/08/2021,±0 %
+Vadsbrovägen 4,Vadsbro, Flens kommun,276 + 22 ,   8,1 440 ,6 700 000 ,27/08/2021,+92 %
+Sälltäppan 5,Julita, Katrineholms kommun,116 + 116 ,   3,1 762 ,1 250 000 ,27/08/2021,+5 %
+Sjöborgsvägen 69,Strängnäs kommun,56 ,   3,2 137 ,2 295 000 ,23/08/2021,±0 %
+Tofsö Tallhem,Trosa Tofsö, Trosa kommun,87 ,   4,5 768 ,2 975 000 ,21/08/2021,±0 %
+Liljegatan 9,Torshälla, Eskilstuna kommun,120 + 146 ,   4,716 ,3 900 000 ,20/08/2021,+12 %
+Lilla Vässinge 1,Västra Näshulta, Eskilstuna kommun,53 + 18 ,   4,10 459 ,2 500 000 ,20/08/2021,+4 %
+Blåsippsvägen 20,Norrtuna, Gnesta kommun,79 + 71 ,   3,2 094 ,2 850 000 ,20/08/2021,+2 %
+Svärdsklova, Nyköpings kommun,  975 ,2 050 000 ,20/08/2021,+71 %
+Solbacken 3,Katrineholm, Katrineholms kommun,96 + 96 ,   4,862 ,3 465 000 ,20/08/2021,+16 %
+Östra Forssa Kiviksvägen 18,Östra Forssa, Flens kommun,87 + 33 ,   4,1 785 ,2 360 000 ,20/08/2021,+19 %
+Dalgatan 20,Sparreholm, Flens kommun,175 + 120 ,   8,1 296 ,3 050 000 ,20/08/2021,-3 %
+Väsbyholmsvägen 33A,Mälarbaden, Eskilstuna kommun,145 ,   6,2 288 ,5 100 000 ,20/08/2021,+11 %
+Ringrosgatan 9,Torshälla, Eskilstuna kommun,97 + 97 ,   4,714 ,3 620 000 ,20/08/2021,+13 %
+Eklången Karlsborg,Eskilstuna kommun,80 ,   3,45 500 ,4 000 000 ,19/08/2021,±0 %
+Storviltsvägen 13,Sunda-Ramdalshöjden, Oxelösunds kommun,75 + 75 ,   3,691 ,2 525 000 ,19/08/2021,+49 %
+Folkegatan 6,Oxelösund Centrum, Oxelösunds kommun,122 + 36 ,   5,1 016 ,3 310 000 ,19/08/2021,+47 %
+Spinnrocksvägen 7,Fårhushagen, Strängnäs kommun,121 ,   4,660 ,4 675 000 ,19/08/2021,+5 %
+Brovägen 1,Centralt - Vagnhärad, Trosa kommun,143 + 143 ,   6,1 405 ,5 000 000 ,19/08/2021,+30 %
+Bie Västergården,Bie, Katrineholms kommun,250 + 100 ,   9,6 819 ,4 550 000 ,18/08/2021,+42 %
+Stav Nybro 5,Mellösa, Flens kommun,68 ,   3,2 112 ,1 800 000 ,18/08/2021,-9 %
+Sturehovsvägen 14,Skogstorp, Eskilstuna kommun,100 + 19 ,   4,390 ,4 250 000 ,18/08/2021,+12 %
+Östra Villavägen 12,Östra Villastaden, Nyköpings kommun,180 + 60 ,   7,718 ,5 950 000 ,18/08/2021,+8 %
+Koboltvägen 1,Stensborg, Nyköpings kommun,136 ,   5,1 186 ,5 500 000 ,18/08/2021,+1 %
+Skogsborgsvägen 5,Hälleforsnäs, Flens kommun,120 + 45 ,   5,2 337 ,1 500 000 ,18/08/2021,±0 %
+Parkgatan 11,Malmköping, Flens kommun,121 + 42 ,   6,923 ,1 600 000 ,10/08/2021,±0 %
+Tingshusgatan 19,Gnesta, Gnesta kommun,94 + 94 ,   5,931 ,3 310 000 ,9/08/2021,+15 %
+Norrlundsvägen 11,Nyköpings kommun,103 + 12 ,   3,699 ,3 900 000 ,9/08/2021,+4 %
+Trådvägen 2,Harg, Nyköpings kommun,130 + 16 ,   5,650 ,3 875 000 ,9/08/2021,-3 %
+Videvägen 12,Storgärdet, Strängnäs kommun,108 + 60 ,   5,862 ,4 250 000 ,8/08/2021,±0 %
+Rustmästarvägen 21,Mesta, Eskilstuna kommun,123 ,   5,701 ,2 850 000 ,6/08/2021,+4 %
+Gränsvägen 7,Malmsjöstugan, Gnesta kommun,41 ,   2,3 072 ,2 100 000 ,6/08/2021,+20 %
+Kila Rogsta Höglunda 1,Jönåker, Nyköpings kommun,103 ,   5,7 430 ,2 500 000 ,6/08/2021,-4 %
+Rävuddsvägen 17,Trosa Öbolandet, Trosa kommun,174 + 100 ,   6,2 302 ,8 600 000 ,5/08/2021,+8 %
+Ehrendalskvarn 16,Gnesta, Gnesta kommun,140 + 32 ,   5,3 388 ,4 640 000 ,5/08/2021,+17 %
+Nordviksvägen 9,Slagsta, Eskilstuna kommun,149 + 15 ,   6,748 ,4 520 000 ,5/08/2021,+21 %
+Sköldingeby Panzarstugan,Sköldinge, Katrineholms kommun,110 + 20 ,   3,2 540 ,2 400 000 ,5/08/2021,+34 %
+Nikolai Solö Lilla Solgård (Prel. adress),Solö, Nyköpings kommun,90 ,   3,3 275 000 ,5/08/2021,+31 %
+Lundby Töle kvarn 1,Gnesta kommun,136 + 136 ,  ,45 616 ,7 600 000 ,5/08/2021,+11 %
+Hästhagen Gustavsborg 5,Mariefred, Strängnäs kommun,150 ,   4,2 500 ,6 500 000 ,3/08/2021,+18 %
+Bromma Alberts 1,Vingåkers kommun,50 + 50 ,   4,3 288 ,2 470 000 ,2/08/2021,+24 %
+Björnlundagården Björkeberga 1,Björnlunda, Gnesta kommun,226 + 77 ,   7,6 249 ,4 780 000 ,2/08/2021,+6 %
+Gustaf-Adolfsvägen 7,Oppeby, Nyköpings kommun,135 + 97 ,   5,893 ,4 700 000 ,2/08/2021,+9 %
+Kantarellstigen 4,Bryngelstorp, Nyköpings kommun,140 + 140 ,   7,944 ,5 000 000 ,2/08/2021,-6 %
+Hagby Furuhill,Julita lantligt, Katrineholms kommun,187 + 104 ,   7,2 895 ,1 950 000 ,31/07/2021,+22 %
+Broby Sjöliden 1,Bettna, Flens kommun,94 + 50 ,   3,2 978 ,1 750 000 ,16/07/2021,+3 %
+Ekvallsgatan 14,Övre Nyfors, Eskilstuna kommun,152 + 92 ,   5,546 ,4 275 000 ,16/07/2021,+16 %
+Kogneslingan 1,Torshälla/Bjällersta, Eskilstuna kommun,144 + 91 ,   6,1 352 ,3 040 000 ,15/07/2021,+35 %
+Djupdalsvägen 11,Vagnhärad - Landsbygden, Trosa kommun,70 + 83 ,   3,3 460 ,3 350 000 ,15/07/2021,-15 %
+Annedalsgatan 10,Vingåker, Vingåkers kommun,149 ,   6,857 ,1 400 000 ,15/07/2021,±0 %
+Forsa Lönnbo,Forsa, Katrineholms kommun,83 ,   4,1 604 ,1 500 000 ,15/07/2021,+18 %
+Lövbacksvägen 7,Katrineholm Söder, Katrineholms kommun,146 + 29 ,   5,1 036 ,3 600 000 ,15/07/2021,+6 %
+Hagabergsvägen 42,Trosa, Trosa kommun,129 + 36 ,   5,706 ,6 300 000 ,14/07/2021,+13 %
+Lokes hage 5,Hagarna, Trosa kommun,108 ,   4,320 ,2 900 000 ,14/07/2021,+4 %
+Lundaskog Säterslund 1 och 2,Lundaskog, Nyköpings kommun,91 ,   7,1 840 ,3 000 000 ,14/07/2021,-14 %
+Malmby Marieberg 3,Strängnäs, Strängnäs kommun,135 + 20 ,   6,1 838 ,4 995 000 ,14/07/2021,±0 %
+Juresta Hammarstorp 2,Flodafors, Katrineholms kommun,74 + 30 ,   3,1 660 ,1 880 000 ,13/07/2021,+26 %
+Smörsoppvägen 23B,Bryngelstorp, Nyköpings kommun,260 ,   6,2 842 ,9 075 000 ,13/07/2021,-9 %
+Ålberga täppor Lyckebo 1,Kila, Nyköpings kommun,180 + 107 ,   7,1 831 ,3 000 000 ,13/07/2021,+1 %
+Långängsberget 2,Strängnäs kommun,116 ,   4,2 009 ,3 700 000 ,13/07/2021,+16 %
+Fogdö Vik 92,VIK, Strängnäs kommun,88 + 26 ,   4,914 ,3 525 000 ,12/07/2021,+12 %
+Åsgatan 54,Öster, Katrineholms kommun,80 + 50 ,   4,900 ,2 520 000 ,12/07/2021,+29 %
+Nybble 8,Stallarholmen, Strängnäs kommun,86 + 15 ,   3,3 105 ,7 000 000 ,12/07/2021,+8 %
+Rosöga by 12,Strängnäs, Strängnäs kommun,128 ,   4,1 419 ,3 200 000 ,12/07/2021,+23 %
+Ringvägen 6,Malmköping, Flens kommun,122 + 122 ,   5,819 ,2 500 000 ,12/07/2021,+4 %
+Fogdö Vik 97,VIK FOGDÖ, Strängnäs kommun,95 + 20 ,   4,1 196 ,3 425 000 ,10/07/2021,+4 %
+Telefonvägen 3,Strängnäs, Strängnäs kommun,137 + 36 ,   4,2 240 ,3 250 000 ,10/07/2021,-7 %
+Össby Berg,Jäder, Eskilstuna kommun,110 ,   5,1 893 ,3 060 000 ,9/07/2021,+28 %
+Kryddvägen 21,Arnö, Nyköpings kommun,164 + 10 ,   7,844 ,5 450 000 ,9/07/2021,-1 %
+Janslunda 23,Stallarholmen, Strängnäs kommun,66 + 12 ,   4,1 443 ,3 450 000 ,9/07/2021,+8 %
+Söra Sörgården 1,Lantligt, Gnesta kommun,110 + 100 ,   6,13 902 ,6 000 000 ,9/07/2021,+5 %
+Kjesäter Sjövik 1,Vingåker, Vingåkers kommun,191 + 170 ,   6,4 060 ,3 795 000 ,9/07/2021,±0 %
+Västra Viggeby 18,Västra Viggeby, Strängnäs kommun,121 + 5 ,   6,1 788 ,3 200 000 ,9/07/2021,+8 %
+Torsbovägen 18,Bie, Katrineholms kommun,107 + 110 ,   7,1 253 ,1 800 000 ,2/07/2021,±0 %
+Oxbackevägen 22,Oxbacken, Nyköpings kommun,189 + 67 ,   7,1 622 ,5 300 000 ,2/07/2021,+8 %
+Edanövägen 15,Trosa Öbolandet, Trosa kommun,61 + 9 ,   2,2 462 ,4 500 000 ,1/07/2021,+1 %
+Hultvägen 2,Hjälmsätters fritidshusområde, Katrineholms kommun,115 ,   4,1 839 ,2 500 000 ,1/07/2021,+14 %
+Centrumvägen 5,Alberga, Eskilstuna kommun,103 + 149 ,   6,1 188 ,2 550 000 ,1/07/2021,+35 %
+Skälbyvägen 6,Runtuna, Nyköpings kommun,140 + 28 ,   5,816 ,3 100 000 ,1/07/2021,+29 %
+Trollstigen 80,Arnö, Nyköpings kommun,141 + 5 ,   6,232 ,3 195 000 ,1/07/2021,±0 %
+Norrtuna Ekliden 1,Gnesta, Gnesta kommun,60 ,   2,2 361 ,3 100 000 ,1/07/2021,+25 %
+Snöbollsvägen 5,Skogsängen, Eskilstuna kommun,165 + 76 ,   6,2 907 ,4 700 000 ,1/07/2021,+25 %
+Syrsastigen 6,Bryngelstorp, Nyköpings kommun,147 + 39 ,   5,1 086 ,4 000 000 ,1/07/2021,+11 %
+Vreta Nydal 65,Stallarholmen, Strängnäs kommun,106 ,   4,1 491 ,2 750 000 ,1/07/2021,±0 %
+Djupvik Rosenlid,Katrineholms kommun,94 + 44 ,   5,1 216 ,2 600 000 ,30/06/2021,+68 %
+Arkeologgatan 24,Glömsta, Eskilstuna kommun,140 + 5 ,   6,710 ,4 075 000 ,30/06/2021,+20 %
+Bäckhagavägen 6B,Måsta, Eskilstuna kommun,124 ,   5,701 ,4 100 000 ,30/06/2021,+30 %
+Klockstigen 6,Merlänna/Strängnäs, Strängnäs kommun,114 + 28 ,   4,806 ,2 520 000 ,30/06/2021,-12 %
+Rekylvägen 9,Sunda, Oxelösunds kommun,92 + 92 ,   4,658 ,2 700 000 ,30/06/2021,+9 %
+Boda Augustdal 1,Vingåker, Vingåkers kommun,62 + 17 ,   4,2 870 ,1 800 000 ,30/06/2021,+6 %
+Isakslundsvägen 81,Sunda-Ramdalshöjden, Oxelösunds kommun,122 ,   4,1 182 ,3 450 000 ,30/06/2021,+39 %
+Lilla Almby Snickargård,Eskilstuna kommun,145 + 85 ,   5,86 305 ,6 600 000 ,29/06/2021,-6 %
+Nabbuddsvägen 5,Tärby, Eskilstuna kommun,148 ,   5,1 646 ,5 000 000 ,29/06/2021,+5 %
+Ravinvägen 21,Nävekvarn, Nyköpings kommun,72 + 72 ,   4,960 ,2 400 000 ,29/06/2021,-3 %
+Eklången Elgarne,Eklången, Eskilstuna kommun,134 ,   4,16 104 ,3 400 000 ,29/06/2021,+26 %
+Furuvägen 5,Centralt, Gnesta kommun,99 + 99 ,   4,851 ,3 195 000 ,29/06/2021,±0 %
+Olstorpsvägen 12,Flen, Flens kommun,103 ,   4,1 460 ,1 300 000 ,29/06/2021,±0 %
+Skogvaktarvägen 67B,Odlaren, Eskilstuna kommun,119 + 62 ,   6,2 044 ,4 600 000 ,24/06/2021,+32 %
+Bråtorp Ekstuhagen 38,Åkers-Bråtorp, Strängnäs kommun,127 ,   4,2 076 ,3 520 000 ,24/06/2021,+8 %
+Ålberga gård Vårhaga 1,Ålberga, Nyköpings kommun,74 + 74 ,   4,1 438 ,1 910 000 ,24/06/2021,+32 %
+Alkvägen 47,Vallsund, Oxelösunds kommun,108 ,   4,167 ,2 000 000 ,24/06/2021,+11 %
+Bjurängsvägen 5,Malmköping, Flens kommun,60 + 60 ,   3,914 ,1 200 000 ,24/06/2021,+34 %
+Skogshyddevägen 3,Stigtomta, Nyköpings kommun,145 + 85 ,   5,1 539 ,3 250 000 ,24/06/2021,+9 %
+Floragatan 1,Hälleforsnäs, Flens kommun,71 + 65 ,   3,1 398 ,840 000 ,24/06/2021,+21 %
+Älunda Enbacken,Husby-Rekearne, Eskilstuna kommun,188 ,   6,6 195 ,5 500 000 ,24/06/2021,+11 %
+Norrby 5,Björnlunda, Gnesta kommun,88 ,   5,3 772 ,2 700 000 ,23/06/2021,+5 %
+Myrstigen 3,Näshulta-Österby, Eskilstuna kommun,65 ,   3,1 842 ,2 000 000 ,23/06/2021,+29 %
+Berzeliegränd 1,Oppeby, Nyköpings kommun,90 + 10 ,   4,429 ,3 695 000 ,23/06/2021,±0 %
+Hertig Karls väg 2B,Åkers styckebruk, Strängnäs kommun,190 + 52 ,   7,1 201 ,4 700 000 ,23/06/2021,+27 %
+Kantzows väg 5,Västerljung, Trosa kommun,108 ,   4,634 ,3 400 000 ,15/06/2021,+15 %
+Dragonvägen 10,Mesta, Eskilstuna kommun,105 ,   4,478 ,3 315 000 ,15/06/2021,+11 %
+Framnäsvägen 55,Gnesta, Gnesta kommun,83 + 42 ,   4,1 022 ,3 500 000 ,15/06/2021,+27 %
+Stavtorp 8,Mariefred, Strängnäs kommun,161 ,   5,1 484 ,3 400 000 ,14/06/2021,-6 %
+Källarbacken 7,Stallarholmen, Strängnäs kommun,176 ,   6,997 ,5 700 000 ,13/06/2021,-3 %
+Björsund 117,Strängnäs kommun,163 + 26 ,   6,2 568 ,4 550 000 ,13/06/2021,+24 %
+Myrsjögatan 13,Centralt, Vingåkers kommun,73 + 73 ,   3,1 011 ,805 000 ,12/06/2021,+4 %
+Vallavägen 12,Ärla, Eskilstuna kommun,100 + 80 ,   5,1 359 ,2 400 000 ,11/06/2021,+20 %
+Aspåvägen 2,Julita, Katrineholms kommun,78 + 83 ,   3,1 628 ,1 575 000 ,11/06/2021,±0 %
+Fatbursvägen 11,MARIEFRED - EKHOV, Strängnäs kommun,118 + 117 ,   6,950 ,6 562 995 ,11/06/2021,+47 %
+Aspö Solhem 1,Strängnäs kommun,163 + 53 ,   5,5 245 ,3 700 000 ,11/06/2021,+25 %
+Lärkträdsvägen 40,ULVHÄLL, Strängnäs kommun,85 + 84 ,   5,756 ,3 750 000 ,10/06/2021,+1 %
+Husbyvägen 20,Vagnhärad, Trosa kommun,150 + 92 ,   8,1 244 ,3 850 000 ,10/06/2021,+10 %
+Hagabergsvägen 40,Trosa, Trosa kommun,156 ,   6,1 045 ,7 100 000 ,10/06/2021,+9 %
+Valhallavägen 12,Centralt, Vingåkers kommun,111 + 111 ,   5,1 148 ,2 375 000 ,10/06/2021,-5 %
+Hagen Björnkärrsvägen 41,Sparreholm, Flens kommun,95 + 14 ,   4,1 996 ,2 390 000 ,10/06/2021,-4 %
+Marsjövägen 33,Mariefred, Strängnäs kommun,60 + 26 ,   3,2 115 ,2 750 000 ,10/06/2021,+20 %
+Hammarby 2,Stigtomta, Nyköpings kommun,82 + 38 ,   4,2 258 ,2 520 000 ,10/06/2021,+69 %
+Katrinebergsvägen 9,Sköldinge, Katrineholms kommun,68 + 68 ,   4,1 158 ,1 800 000 ,9/06/2021,+20 %
+Annero 3,Åkers Styckebruk, Strängnäs kommun,130 + 69 ,   6,1 002 ,2 520 000 ,9/06/2021,+6 %
+Ryningsbergsvägen 28,Hållsta, Eskilstuna kommun,104 + 95 ,   4,1 141 ,2 355 000 ,9/06/2021,+12 %
+Råby Fridhem 1,Nyköpings kommun,97 ,   4,1 856 ,2 780 000 ,9/06/2021,+29 %
+Slåttergången 22,Trosa, Trosa kommun,132 ,   6,525 ,4 373 000 ,9/06/2021,+12 %
+Allhelgonavägen 5B,Centralt Öster, Nyköpings kommun,140 + 32 ,   5,144 ,7 400 000 ,9/06/2021,+7 %
+Gesta 24,Gesta, Strängnäs kommun,169 ,   7,1 757 ,4 300 000 ,4/06/2021,+8 %
+Slängstan 7,FOGDÖ, Strängnäs kommun,75 + 3 ,   3,2 316 ,1 350 000 ,3/06/2021,-8 %
+Hagabergsvägen 17,Trosa, Trosa kommun,155 ,   4,1 455 ,8 400 000 ,3/06/2021,+23 %
+Åsvägen 6,sparreholm, Flens kommun,84 + 84 ,   4,646 ,750 000 ,3/06/2021,±0 %
+Ängsvägen 5,ÅKERS STYCKEBRUK, Strängnäs kommun,89 + 5 ,   3,821 ,3 170 000 ,3/06/2021,+11 %
+Kyrkvägen 1,Bergshammar, Nyköpings kommun,170 ,   7,1 020 ,3 150 000 ,3/06/2021,+11 %
+Gränsbäcksvägen 4A,Läppe, Vingåkers kommun,160 ,   5,1 283 ,3 795 000 ,3/06/2021,±0 %
+Tummelsta 7,Tummelsta, Eskilstuna kommun,54 ,   2,614 ,3 200 000 ,3/06/2021,+12 %
+Isbergsvägen 3,Berga, Strängnäs kommun,191 + 85 ,   5,1 991 ,4 440 000 ,3/06/2021,+4 %
+Kyrkvägen 20,Åkers Styckerbruk- Mariefred, Strängnäs kommun,147 + 170 ,   4,5 535 ,6 100 000 ,3/06/2021,+22 %
+Hammersta Ekliden 1,Hammersta, Gnesta kommun,74 + 30 ,   5,2 086 ,4 070 000 ,3/06/2021,+6 %
+Ängsvägen 17,ÅKERS STYCKEBRUK, Strängnäs kommun,120 + 48 ,   6,792 ,3 300 000 ,2/06/2021,+18 %
+Vikstavägen 7,Skogstorp, Eskilstuna kommun,145 + 32 ,   5,1 073 ,4 475 000 ,2/06/2021,+21 %
+Skeppargatan 10,Trosa Centralt, Trosa kommun,186 + 93 ,   8,1 435 ,10 700 000 ,2/06/2021,+36 %
+Uddbacken 3,Brannebol, Nyköpings kommun,140 ,   5,1 300 ,1 344 000 ,27/05/2021,-73 %
+Björktorpsvägen 47,Strängnäs, Strängnäs kommun,155 ,   6,2 184 ,2 990 000 ,27/05/2021,-4 %
+Skogshyddevägen 6,Tosterö, Strängnäs kommun,177 ,   6,1 018 ,6 400 000 ,27/05/2021,+13 %
+Hagen Bogårdsvägen 60,Sparreholm, Flens kommun,47 + 40 ,   3,2 076 ,2 575 000 ,26/05/2021,+29 %
+Fogdö Vik 7,FOGDÖ, Strängnäs kommun,80 ,   3,1 324 ,2 500 000 ,26/05/2021,+11 %
+Utsiktsvägen 12,Trosa Stensund, Trosa kommun,52 ,   3,1 497 ,2 950 000 ,26/05/2021,±0 %
+Tussilagovägen 3,Norrtuna, Gnesta kommun,115 ,   5,1 304 ,3 660 000 ,26/05/2021,+31 %
+Torparängsvägen 27,Stallarholmen, Strängnäs kommun,186 ,   6,1 217 ,5 850 000 ,26/05/2021,+21 %
+Skillingagatan 36,Centralt, Gnesta kommun,119 + 119 ,   7,1 012 ,4 800 000 ,26/05/2021,+37 %
+Mårdstigen 3,Värmbol, Katrineholms kommun,153 ,   5,567 ,2 900 000 ,26/05/2021,+1 %
+Sjövägen 7,Hultastrand, Katrineholms kommun,80 ,   3,3 685 ,5 500 000 ,26/05/2021,+10 %
+Österåker Lyckebo,Vingåker, Vingåkers kommun,120 ,   4,1 285 ,1 475 000 ,26/05/2021,+14 %
+Enbyvägen 16,Åkers styckebruk, Strängnäs kommun,95 + 90 ,   4,1 328 ,2 655 000 ,26/05/2021,+3 %
+Tuvhagsvägen 15,Jönåker, Nyköpings kommun,147 + 34 ,   5,1 158 ,3 075 000 ,26/05/2021,+24 %
+Björkhagsvägen 13,Vingåker med omnejd, Vingåkers kommun,104 + 50 ,   4,518 ,1 500 000 ,26/05/2021,+15 %
+Sundtorp Hasseludden 1,Mellösa Södermanland, Flens kommun,150 + 72 ,   5,1 733 ,4 100 000 ,26/05/2021,+12 %
+Murtegelvägen 2,Stallarholmen, Strängnäs kommun,146 + 32 ,   6,1 036 ,4 100 000 ,25/05/2021,-2 %
+Larslundsvägen 2,Hällby, Eskilstuna kommun,137 ,   6,874 ,3 850 000 ,25/05/2021,+54 %
+Arlaplan 20,Valla, Katrineholms kommun,59 ,   3,460 ,1 200 000 ,25/05/2021,+27 %
+Timotejvägen 6,Bälgviken, Eskilstuna kommun,134 + 40 ,   4,1 008 ,2 305 000 ,25/05/2021,+16 %
+Östra Kyrkogatan 6,Öster, Nyköpings kommun,153 + 92 ,   6,382 ,8 700 000 ,25/05/2021,±0 %
+Ekhammar Blåsippsbacken,Eskilstuna kommun,93 + 15 ,   4,1 527 ,2 500 000 ,24/05/2021,+11 %
+Sikvägen 3,Sunda-Ramdalshöjden, Oxelösunds kommun,115 ,   4,289 ,4 300 000 ,24/05/2021,+16 %
+Fornminnesvägen 9,Dansut, Gnesta kommun,111 ,   4,906 ,4 520 000 ,24/05/2021,+41 %
+Hermelinstigen 4,Centralt, Gnesta kommun,128 ,   6,758 ,3 900 000 ,24/05/2021,+42 %
+Bjurtorpsvägen 39,Flen, Flens kommun,151 ,   6,456 ,2 000 000 ,23/05/2021,-5 %
+Trosaby Åshornsberget,Trosaby Hållsviken, Trosa kommun,169 ,   5,4 024 ,5 000 000 ,22/05/2021,+33 %
+Tomtaäng 12,Trosa, Trosa kommun,138 ,   5,1 032 ,6 850 000 ,22/05/2021,+6 %
+Fredriksberg 1,Nyköpings kommun,84 ,   3,2 941 ,1 550 000 ,21/05/2021,+19 %
+Norrskenet 12,Råby, Nyköpings kommun,98 + 26 ,   4,2 108 ,2 550 000 ,21/05/2021,+11 %
+Elisabeth Tamms väg 4,Julita, Katrineholms kommun,75 ,   4,4 009 ,2 500 000 ,21/05/2021,+67 %
+Betesgången 8,Trosa, Trosa kommun,115 ,   4,235 ,3 450 000 ,18/05/2021,-1 %
+Antikvariegatan 41,Glömsta, Eskilstuna kommun,139 ,   5,506 ,3 700 000 ,17/05/2021,+20 %
+Skiren Gården 1,Gnesta, Gnesta kommun,190 + 140 ,   5,5 648 ,6 450 000 ,17/05/2021,+23 %
+Fjällgatan 3,Gnestahöjden, Gnesta kommun,192 + 72 ,   7,2 016 ,6 000 000 ,17/05/2021,+28 %
+Östra torget 5,Centralt, Nyköpings kommun,263 + 120 ,   10,1 275 ,11 250 000 ,17/05/2021,±0 %
+Granvägen 29,Björnlunda, Gnesta kommun,200 + 73 ,   6,1 086 ,4 420 000 ,17/05/2021,+39 %
+Henstavägen 21,Eskilstuna kommun,60 ,   2,947 ,1 200 000 ,17/05/2021,-14 %
+Bergsvägen 18,Mariefred, Strängnäs kommun,52 ,   3,2 033 ,2 910 000 ,17/05/2021,+2 %
+Hasselvägen 1,Tystberga, Nyköpings kommun,142 + 59 ,   6,941 ,2 600 000 ,17/05/2021,±0 %
+Rosenhällsvägen 7,Öster Alla Helgona, Nyköpings kommun,208 + 176 ,   7,1 406 ,10 600 000 ,17/05/2021,+7 %
+Aspö Skedinge 1,Strängnäs, Strängnäs kommun,241 ,   7,4 274 ,4 550 000 ,17/05/2021,-5 %
+Bjälketorp 3,Södermanland, Eskilstuna kommun,80 ,   3,2 607 ,2 300 000 ,17/05/2021,+15 %
+Smedjegatan 13,Väster, Katrineholms kommun,109 ,   6,576 ,3 100 000 ,16/05/2021,+11 %
+Yxtaholm Hägerbovägen 13,Flens kommun,63 ,  ,2 531 ,1 650 000 ,16/05/2021,-3 %
+Valsta 1,Flens kommun,152 + 50 ,   5,3 280 ,3 050 000 ,15/05/2021,+54 %
+Koppartorpsvägen 18,Buskhyttan, Nyköpings kommun,97 + 46 ,   4,2 359 ,2 875 000 ,14/05/2021,±0 %
+Ekebergsvägen 23,Marmorbyn, Vingåkers kommun,98 + 85 ,   5,796 ,2 400 000 ,14/05/2021,-4 %
+Stora Molke Källängen,Vingåkers kommun,101 ,   3,3 774 ,2 750 000 ,14/05/2021,+10 %
+Önnersta Hammarbacken 2,Björnlunda, Gnesta kommun,78 ,   6,5 117 ,2 620 000 ,7/05/2021,+42 %
+Marielundsvägen 18,Mariefred, Strängnäs kommun,105 + 13 ,   3,375 ,5 000 000 ,7/05/2021,+11 %
+Torsbovägen 13,Bie, Katrineholms kommun,115 + 115 ,   5,1 271 ,1 900 000 ,6/05/2021,+6 %
+Björsund 200,Björsund, Strängnäs kommun,170 + 42 ,   5,3 341 ,5 600 000 ,6/05/2021,+26 %
+Munkhagsgatan 19,Mariefred, Strängnäs kommun,142 + 55 ,   6,658 ,11 000 000 ,6/05/2021,+29 %
+Lohes väg 4,ÅKERS STYCKEBRUK, Strängnäs kommun,103 + 103 ,   6,569 ,2 530 000 ,6/05/2021,+27 %
+Jäders-Mälby 44,Jäder, Eskilstuna kommun,60 ,   3,1 219 ,1 430 000 ,6/05/2021,+6 %
+Vadshammar Skogås,Julita lantligt, Katrineholms kommun,45 + 40 ,   2,1 958 ,1 650 000 ,5/05/2021,+84 %
+Ängsvägen 8,Sköldinge, Katrineholms kommun,78 + 78 ,   5,1 047 ,2 510 000 ,5/05/2021,+53 %
+Ostra 84,Ostra, Eskilstuna kommun,131 ,   4,1 083 ,3 960 000 ,5/05/2021,+6 %
+Flodins väg 5,Abborrberget, Strängnäs kommun,110 + 88 ,   6,765 ,3 050 000 ,5/05/2021,+3 %
+Parkvägen 1,Forsa, Strängnäs kommun,103 ,   4,785 ,2 455 000 ,5/05/2021,+8 %
+Rundvägen 2,Flen, Flens kommun,123 + 17 ,   6,2 455 ,1 295 000 ,5/05/2021,+33 %
+Käxlevägen 24,Stjärnhov, Gnesta kommun,131 + 114 ,   5,1 068 ,4 300 000 ,5/05/2021,+14 %
+Mejramvägen 44,Arnö, Nyköpings kommun,149 + 6 ,   5,493 ,4 000 000 ,4/05/2021,+11 %
+Erik Dahlbergsvägen 32,Vingåker, Vingåkers kommun,160 + 40 ,   8,1 021 ,1 695 000 ,4/05/2021,±0 %
+Mariefreds Strand,Mariefred, Strängnäs kommun,119 + 24 ,   4,5 055 ,/mån3 950 000 ,4/05/2021,±0 %
+Skogsgläntan 14,Väster, Katrineholms kommun,140 + 91 ,   4,957 ,3 500 000 ,3/05/2021,+17 %
+Floragatan 2,Julita, Katrineholms kommun,107 ,   4,1 225 ,1 195 000 ,3/05/2021,±0 %
+Höders väg 8,Svalsta, Nyköpings kommun,170 + 30 ,   6,827 ,3 200 000 ,3/05/2021,+14 %
+Ängsvägen 14,Mariefred / Kalkudden, Strängnäs kommun,79 ,   3,2 645 ,4 050 000 ,3/05/2021,+37 %
+Vansö Haga 2,Strängnäs kommun,80 + 10 ,   4,1 229 ,2 630 000 ,3/05/2021,+20 %
+Korngatan 16,Väster, Katrineholms kommun,83 ,   3,577 ,1 910 000 ,2/05/2021,+1 %
+Skogvaktarvägen 50C,Odlaren, Eskilstuna kommun,103 + 9 ,   5,1 505 ,4 550 000 ,26/04/2021,+14 %
+Stettin Stora Dammstugan,Katrineholm, Katrineholms kommun,75 ,   3,4 211 ,2 500 000 ,26/04/2021,+35 %
+Blacksta Tallebo,Lantligt/Ärla, Eskilstuna kommun,71 + 10 ,   3,3 681 ,1 600 000 ,25/04/2021,+24 %
+Dunker Vårbacka,Flens kommun,132 + 49 ,   5,3 456 ,2 630 000 ,25/04/2021,+6 %
+Hällesta Erikslund 1,Gnesta, Gnesta kommun,  69 891 ,5 210 000 ,25/04/2021,+16 %
+Båtsmansgatan 8,Centralt, Trosa kommun,135 + 136 ,   9,946 ,5 850 000 ,24/04/2021,+9 %
+Libergsgatan 7,Torshälla, Eskilstuna kommun,150 + 75 ,   8,1 260 ,4 600 000 ,24/04/2021,+8 %
+Husby ringväg 25,Husby+Framnäs, Strängnäs kommun,127 + 40 ,   6,2 125 ,4 075 000 ,24/04/2021,-5 %
+Stora Målke Östergården,Marmorbyn, Vingåkers kommun,161 + 90 ,   5,125 100 ,5 900 000 ,23/04/2021,+2 %
+Gullängen 14,Gullängen, Eskilstuna kommun,138 ,   5,1 469 ,4 800 000 ,23/04/2021,+1 %
+Vängsö Hagalund 1,Lantligt, Gnesta kommun,120 + 10 ,   6,3 141 ,3 950 000 ,23/04/2021,±0 %
+Hjortronvägen 2,Katrineholm Värmbol, Katrineholms kommun,85 + 53 ,   3,690 ,2 200 000 ,23/04/2021,+10 %
+Ottmark 1,Jönåker, Nyköpings kommun,87 ,   3,3 625 ,2 400 000 ,22/04/2021,+45 %
+Hackstavägen 1,Vingåker, Vingåkers kommun,140 + 83 ,   7,920 ,1 800 000 ,22/04/2021,-10 %
+Gribergsgatan 15,Flen, Flens kommun,104 + 57 ,   5,642 ,1 850 000 ,22/04/2021,+16 %
+Vikingavägen 21A,Vikingabyn, Gnesta kommun,87 ,   3,204 ,2 500 000 ,22/04/2021,+4 %
+Backavägen 2,Tystberga, Nyköpings kommun,270 ,   8,930 ,3 850 000 ,22/04/2021,+31 %
+Hamnviksvägen 5,Läppe, Vingåkers kommun,89 + 30 ,   5,1 011 ,3 050 000 ,14/04/2021,+2 %
+Hagtornsvägen 2,Stjärnhov, Gnesta kommun,144 + 7 ,   5,909 ,2 300 000 ,13/04/2021,+5 %
+Torsåker Sörby 7,Torsåker, Gnesta kommun,116 + 20 ,   3,2 357 ,5 050 000 ,13/04/2021,+49 %
+Nyponvägen 17,Peterslund, Oxelösunds kommun,132 ,  ,539 ,2 500 000 ,13/04/2021,+4 %
+Mariefreds Strand,Mariefred, Strängnäs kommun,119 + 24 ,   4,5 055 ,/mån4 290 000 ,12/04/2021,±0 %
+Sandängsvägen 12,Strängnäs, Strängnäs kommun,69 + 1 ,   4,1 752 ,2 500 000 ,12/04/2021,+9 %
+Skogstorp Björkvik,Österåker, Vingåkers kommun,65 + 37 ,   3,6 400 ,2 800 000 ,11/04/2021,+37 %
+Bruksgränd 16,Torshälla, Eskilstuna kommun,119 + 119 ,   5,1 323 ,4 050 000 ,11/04/2021,+45 %
+Ättersta Sörgården 1,Österåker, Vingåkers kommun,200 + 10 ,   9,4 792 ,4 550 000 ,10/04/2021,+14 %
+Vikingavägen 1B,Vikingabyn, Gnesta kommun,72 ,   4,168 ,2 000 000 ,9/04/2021,+11 %
+Parkgatan 25,Stallarholmen, Strängnäs kommun,77 + 77 ,   3,1 089 ,2 300 000 ,9/04/2021,-8 %
+Granvägen 8,Björnlunda tätort, Gnesta kommun,135 + 44 ,   5,1 579 ,3 950 000 ,8/04/2021,+47 %
+Ändebol Björklyckan,Katrineholm, Katrineholms kommun,70 ,   3,2 056 ,2 350 000 ,8/04/2021,+71 %
+Hagabergsvägen 37,Trosa, Trosa kommun,168 ,   6,1 003 ,7 750 000 ,30/03/2021,+16 %
+Odonkärrsvägen 20,Slätviken, Eskilstuna kommun,125 ,   3,2 071 ,4 800 000 ,30/03/2021,+13 %
+Stensborgsvägen 22,Stensborg, Nyköpings kommun,175 + 35 ,   5,1 056 ,6 450 000 ,30/03/2021,+3 %
+Björsund Stenbacken 222,Strängnäs, Strängnäs kommun,130 ,   4,2 511 ,3 400 000 ,30/03/2021,-5 %
+Kumla Lerbacken 1,Mariefred, Strängnäs kommun,131 ,   6,1 500 ,3 400 000 ,29/03/2021,+31 %
+Frejas väg 11,Svalsta, Nyköpings kommun,138 + 2 ,   6,846 ,2 745 000 ,29/03/2021,-2 %
+Mörtsjönäs 1,Tystberga Kvegerö, Nyköpings kommun,55 ,   2,3 770 ,1 750 000 ,29/03/2021,+30 %
+Ramshammar Ramsberg,Ramshammar, Eskilstuna kommun,129 + 76 ,   5,1 498 ,3 300 000 ,29/03/2021,+3 %
+Uddbacken 4,Brannebol, Nyköpings kommun,140 ,   5,1 217 ,4 675 000 ,29/03/2021,±0 %
+Majvägen 1,Brogetorp, Flens kommun,182 + 57 ,   8,967 ,2 600 000 ,28/03/2021,+11 %
+Vretaslingan 1,Skogstorp, Eskilstuna kommun,119 ,   5,769 ,4 095 000 ,28/03/2021,+3 %
+Ehrendalskvarn 17,Gnesta, Gnesta kommun,98 ,   4,1 623 ,3 610 000 ,26/03/2021,+27 %
+Gropptorp Matsboda 1,Vingåker lantligt, Vingåkers kommun,88 + 12 ,   4,4 376 ,2 350 000 ,26/03/2021,+18 %
+Skogsvägen 12,Skogstorp, Eskilstuna kommun,60 ,   2,1 098 ,2 350 000 ,26/03/2021,+12 %
+Orrspelsvägen 8,ULVHÄLL, Strängnäs kommun,128 + 6 ,   5,379 ,2 700 000 ,26/03/2021,+8 %
+Tunaberg Sandstugan 1,Nyköpings kommun,78 + 10 ,   4,3 685 ,3 080 000 ,26/03/2021,+24 %
+Adjutantgatan 10,Glömsta, Eskilstuna kommun,140 ,   6,429 ,3 960 000 ,26/03/2021,+15 %
+Fogdö Vik 28,Fogdö, Strängnäs kommun,58 ,   2,1 198 ,3 020 000 ,26/03/2021,+55 %
+Uttermarksgatan 29,Östermalm, Eskilstuna kommun,119 + 101 ,   5,765 ,2 780 000 ,26/03/2021,+18 %
+Vängsö backe 12,Lantligt, Gnesta kommun,117 + 10 ,   4,1 971 ,4 500 000 ,26/03/2021,+3 %
+Orrvägen 1,Forssjö, Katrineholms kommun,112 + 112 ,   6,1 560 ,2 200 000 ,25/03/2021,+10 %
+Thulegatan 2,Flen, Flens kommun,101 + 19 ,   5,490 ,1 695 000 ,25/03/2021,±0 %
+Ervallavägen 1,Ålberga, Nyköpings kommun,103 + 7 ,   4,973 ,1 700 000 ,25/03/2021,+8 %
+Gröndal 2,Lantligt, Eskilstuna kommun,150 + 11 ,   6,2 209 ,3 010 000 ,25/03/2021,+31 %
+Trädgårdsgatan 14,sparreholm, Flens kommun,145 + 70 ,   6,1 012 ,2 200 000 ,19/03/2021,+31 %
+Österåker Dalby,Österåker, Vingåkers kommun,155 ,   6,1 019 ,1 975 000 ,19/03/2021,±0 %
+Ekvägen 23,Högsjö, Vingåkers kommun,112 + 64 ,   6,1 560 ,995 000 ,19/03/2021,±0 %
+Smedjevägen 23A,Gnesta kommun,81,5 ,   3,388 ,2 100 000 ,19/03/2021,±0 %
+Småhusgatan 13,Strängnäs, Strängnäs kommun,116 + 8 ,   4,852 ,4 550 000 ,18/03/2021,+1 %
+Hållstavägen 19,Centralt Väster, Nyköpings kommun,171 + 91 ,   5,687 ,6 900 000 ,18/03/2021,+22 %
+Hasselvägen 16,Mariefred, Strängnäs kommun,103 ,   3,1 820 ,4 100 000 ,18/03/2021,+24 %
+Tegelbruksvägen 10,Stjärnholm, Oxelösunds kommun,110 ,   3,1 430 ,4 350 000 ,18/03/2021,-1 %
+Slytan 3,Södermanland, Eskilstuna kommun,77 ,   3,2 029 ,2 650 000 ,18/03/2021,+18 %
+Rosavillavägen 12,Österåker, Vingåkers kommun,145 + 30 ,   4,1 306 ,2 100 000 ,17/03/2021,-4 %
+Fylgias väg 2,Svalsta, Nyköpings kommun,114 ,   4,1 092 ,3 295 000 ,17/03/2021,±0 %
+Hilledalsvägen 10,Bergshammar, Nyköpings kommun,154 ,   5,1 019 ,4 700 000 ,17/03/2021,+7 %
+Violavägen 55,Mariefred, Strängnäs kommun,122 ,   5,256 ,3 463 000 ,17/03/2021,+9 %
+Fållökna Uvbergsvägen 4,Malmköping, Flens kommun,37 ,   3,1 881 ,1 300 000 ,17/03/2021,+45 %
+Skälbyvägen 11,Nyköpings kommun,161 ,   5,978 ,3 025 000 ,16/03/2021,+19 %
+Hälleforsnäs Lundtorp,Hälleforsnäs, Flens kommun,130 + 28 ,   6,1 859 ,2 600 000 ,16/03/2021,+63 %
+Winges väg 9,Högbrunn, Nyköpings kommun,69 + 65 ,   5,600 ,3 325 000 ,16/03/2021,+6 %
+Hallonvägen 3,Gnesta, Gnesta kommun,52 ,   3,1 727 ,1 930 000 ,14/03/2021,±0 %
+Hamravägen 3,Hälleforsnäs, Flens kommun,105 + 50 ,   5,810 ,1 000 000 ,14/03/2021,-9 %
+Haneberg Björkstugan,Västra Näshulta, Eskilstuna kommun,71 + 28 ,   5,2 081 ,2 020 000 ,13/03/2021,+35 %
+,
