@@ -1,26 +1,45 @@
-property_list = open('hemnet_slutpris_sodermanland.csv')
+# This program preliminary formats the raw data taken from the web scrape. 
+# Lines that are irregular are removed and saved to a manual editing file, to be re-added to the next stage of formatting.
+#This function removes unneccessary words, changes the date to number format and splits the property data to individual lines
+def string_reformat(lines):
+        lines = lines.replace('\n',',')
+        lines = lines.replace('m² tomt',',')
+        lines = lines.replace(' rum',',')
+        lines = lines.replace('%','%\n')
+        lines = lines.replace('Slutpris ','')
+        lines = lines.replace('m²',',')
+        lines = lines.replace('Såld ','')
+        lines = lines.replace('kr',',')
+        lines = lines.replace('kommun','kommun,')
+        lines = lines.replace(',,',',')
+        lines = lines.replace(' januari ','/01/')
+        lines = lines.replace(' februari ','/02/')
+        lines = lines.replace(' mars ','/03/')
+        lines = lines.replace(' april ','/04/')
+        lines = lines.replace(' maj ','/05/')
+        lines = lines.replace(' juni ','/06/')
+        lines = lines.replace(' juli ','/07/')  
+        lines = lines.replace(' augusti ','/08/')
+        lines = lines.replace(' september ','/09/')
+        lines = lines.replace(' oktober ','/10/')
+        lines = lines.replace(' november ','/11/')
+        lines = lines.replace(' december ','/12/')
+        lines = lines.split('\n')
+        return lines
+#This function changes the kommun name to match the map ID
+    
+#Open file and read data
+file_name = property_list = 'hemnet_slutpris_sormland.csv'
+property_list = open(file_name)
 lines = property_list.read()
-lines = lines.replace('\n',',')
-lines = lines.replace('m² tomt','')
-lines = lines.replace(' rum',',')
-lines = lines.replace('%,','%\n')
-lines = lines.replace('Slutpris','')
-lines = lines.replace('m²',',')
-lines = lines.replace(',,',',')
-lines = lines.replace('Såld','')
-lines = lines.replace('kr','')
-lines = lines.replace(' januari ','/01/')
-lines = lines.replace(' februari ','/02/')
-lines = lines.replace(' mars ','/03/')
-lines = lines.replace(' april ','/04/')
-lines = lines.replace(' maj ','/05/')
-lines = lines.replace(' juni ','/06/')
-lines = lines.replace(' juli ','/07/')
-lines = lines.replace(' augusti ','/08/')
-lines = lines.replace(' september ','/09/')
-lines = lines.replace(' oktober ','/10/')
-lines = lines.replace(' november ','/11/')
-lines = lines.replace(' december ','/12/')
-#for line in lines:
-    #if "kommun" in line or "Såld" in line or "%" in line or "m²" in line:
-print(lines)
+lines = string_reformat(lines)
+#checks lines to see if they are irregularly long, those are added to manual editing
+for line in lines:
+    elements = line.split(',')
+    if len(elements) > 10:
+        with open('manual_editing.txt', 'a') as f:
+            f.write(line)
+    else:
+        with open('preliminary_format.txt', 'a') as f:
+            f.write(line)
+      
