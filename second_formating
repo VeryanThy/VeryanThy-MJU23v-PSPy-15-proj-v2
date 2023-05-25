@@ -1,0 +1,66 @@
+# removes address from properties leaving only kommun field
+def address_removal(line):
+    elements = line.split(",")
+    if len(elements) > 4:
+        while "kommun" not in elements[0]:
+            del elements[0]
+    if "Nyköpings" in elements[0]:
+        elements[0] = elements[0].replace("Nyköpings kommun", "Nyköping")
+    if "Oxelösunds" in elements[0]:
+        elements[0] = elements[0].replace("Oxelösunds kommun", "Oxelösund")
+    if "Flens" in elements[0]:
+        elements[0] = elements[0].replace("Flens kommun", "Flen")
+    if "Vingåkers" in elements[0]:
+        elements[0] = elements[0].replace("Vingåkers kommun", "Vingåker")
+    if "Katrineholms" in elements[0]:
+        elements[0] = elements[0].replace("Katrineholms kommun", "Katrineholm")
+    if "kommun" in elements[0]:
+        elements[0] = elements[0].replace("kommun", "")
+    i = 0
+    #removes white space from fields
+    while i < len(elements):
+        if elements[i] is not None:
+            elements[i] = elements[i].replace(" ", "")
+            elements[i] = elements[i].replace("%\n", "")
+        i += 1
+    return elements
+
+
+# removes white space from string
+# def remove_space(elements):
+# opens both manual and preliminary format files and combines to one list
+prelim_format = open("preliminary_format.txt")
+properties = prelim_format.readlines()
+manual_edit = open("manual_editing.txt")
+manual_edits = manual_edit.readlines()
+for line in manual_edits:
+    properties.append(line)
+# creates 2 data lists for valid data and invalid data
+data_properties = []
+data_properties_irregularities = []
+data_properties.append("Kommun,Storlek,Rum,Tomt,Slutpris,Datum,Ökning")
+for line in properties:
+    elements = address_removal(line)
+    if len(elements) == 7:
+        data_properties.append(elements[0]+","+elements[1]+","+elements[2]+","+elements[3]+","+elements[4]+","+elements[5]+","+elements[6])
+    else:
+        if len(elements) != 0:
+            i = 1
+            irregular_string = elements[0]
+            while i < len(elements):
+                irregular_string = irregular_string + "," + elements[i]
+                i += 1
+        data_properties_irregularities.append(irregular_string)
+# saves valid data to file
+i = 0
+while i < len(data_properties):
+    with open('properties_data.csv', 'a') as f:
+        f.write(data_properties[i]+"\n")
+    i += 1
+#saves invalid data to file
+i = 0
+while i < len(data_properties_irregularities):
+    with open('properties_data_irregularities.csv', 'a') as f:
+        f.write(data_properties_irregularities[i]+"\n")
+    i += 1
+   
