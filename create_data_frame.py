@@ -62,8 +62,11 @@ def get_index(field):
     return index
 def mean(kommun, index):
     sum = 0
+    average = 0
     for line in kommun:
-        price = line[index]
+        elements = line.split(",")
+        elements[index] = elements[index].replace("/mån", "")
+        price = elements[index]
         sum = sum + int(price)
     average = sum / len(kommun)
     return average
