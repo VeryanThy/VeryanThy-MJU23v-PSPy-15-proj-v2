@@ -2,9 +2,6 @@
 import tkinter as tk
 import pandas as pd
 import plotly.graph_objects as go
-#import numpy as np
-#import geopandas as gpd
-#import matplotlib.pyplot as plt
 import plotly.express as px
 import geojson
 from geojson_rewind import rewind
@@ -60,14 +57,25 @@ def get_index(field):
     if field == "increase":
         index = 6
     return index
+#calculates average values in list at specific index
 def mean(kommun, index):
     sum = 0
     average = 0
     for line in kommun:
         elements = line.split(",")
         elements[index] = elements[index].replace("/mån", "")
-        price = elements[index]
-        sum = sum + int(price)
+        if "±" in elements[index]:
+            elements[index] = 0
+        if "%" in elements[index]:
+            elements[index] = elements[index].replace("%", "")
+        if "-" in elements[index]:
+            value_elements = elements[index].split("-")
+            elements[index] = int(value_elements[0])*-1
+        if "+" in elements[index]:
+            value_elements = elements[index].split("+")
+            elements[index] = value_elements[0]
+        value = elements[index]
+        sum = sum + int(value)
     average = sum / len(kommun)
     return average
 
@@ -76,10 +84,24 @@ def create_data_frame(option):
     if option == "Number of sales":
         num_sales = [len(vingaker), len(gnesta), len(flen), len(katrineholm), len(eskilstuna), len(trosa), len(oxelosund), len(nykoping), len(strangnas)]
         df =  pd.DataFrame({'Kommun': kommun_list[0:9], 'Antal': num_sales[0:9]})
-    if option == "Average Sales Price":
+    if option == "Average Sales Price" or "Average Price/m^2":
         index = get_index("price")
         av_pris = [mean(vingaker, index), mean(gnesta, index), mean(flen, index), mean(katrineholm, index), mean(eskilstuna, index), mean(trosa, index), mean(oxelosund, index), mean(nykoping, index), mean(strangnas, index)]
-        df =  pd.DataFrame({'Kommun': kommun_list[0:9], 'Price': av_pris[0:9]})
+        if option == "Average Sales Price":
+            df =  pd.DataFrame({'Kommun': kommun_list[0:9], 'Price': av_pris[0:9]})
+        if option == "Average Price/m^2": 
+            index = get_index("area")
+            av_area = [mean(vingaker, index), mean(gnesta, index), mean(flen, index), mean(katrineholm, index), mean(eskilstuna, index), mean(trosa, index), mean(oxelosund, index), mean(nykoping, index), mean(strangnas, index)]
+            print(av_area)
+            av_kvm = []
+            i = 0
+            while i < len(av_area) and i < len(av_pris):
+                kvm_pris = (av_pris[i]) / (av_area[i])
+                av_kvm.append(kvm_pris)
+                i +=1 
+            df =  pd.DataFrame({'Kommun': kommun_list[0:9], 'Kr/Kvm': av_kvm[0:9]})
+    #TODO: average % increase option
+
     return df
 
 def generate_map():
@@ -89,11 +111,15 @@ def generate_map():
         param = 'Antal'
     if option == "Average Sales Price":
         param = 'Price'
+    if option == "Average Price/m^2":
+        param = 'Kr/Kvm'
+    
+    #Prepares geoJson map for mapping
     with open("sormland_map.geojson") as f:
         geojson_file = geojson.load(f)
     sormland_geojson = rewind(geojson_file,rfc7946=False)
 
- 
+ #creates choropleth map
     fig = px.choropleth_mapbox(df,
                 geojson = sormland_geojson,
                 featureidkey='properties.kom_namn', 
@@ -105,11 +131,9 @@ def generate_map():
                 opacity= 0.7,
                 zoom = 7)                
     fig.show()
-    
-    
-    #fig.update_geos(fitbounds="locations", visible=True)
     fig.show()
 
+#User Interface for map creation
 window = tk.Tk()
 window.geometry("700x350")
 
@@ -139,8 +163,6 @@ window.mainloop()
 
         
 
-
-#def mean_value(parameter):
 
  
 
